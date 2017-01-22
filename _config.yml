@@ -1,0 +1,59 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: / 
+email: elwinha@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:title
+
+# Social Media Info
+twitter_username: elwinha
+linkedin_username: elwin-ha-41196042
+instagram_username: retardedtofu
+github_username:  retardedtofu
+
+# Images
+logourl: "/assets/logo.png"
+twitter_url: "/assets/social_media/twitter.svg"
+email_url: "/assets/social_media/email.svg"
+dribbble_url: "/assets/social_media/dribbble.svg"
+linkedin_url: "/assets/social_media/linkedin.svg"
+instagram_url: "/assets/social_media/instagram.svg"
+stroke_out_url: "/assets/social_media/stroke_out.svg"
+stroke_in_url: "/assets/social_media/stroke_in.svg"
+
+# Pagination Details
+paginate: 4
+paginate_path: "/blog/page:num/"
+
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+markdown: kramdown
+kramdown:
+  input: GFM
+
+gems: [jekyll-paginate]
+# gems:
+#   - jekyll-feed
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock

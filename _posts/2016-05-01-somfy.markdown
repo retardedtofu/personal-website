@@ -1,0 +1,141 @@
+---
+layout: post
+title:  "Somfy IoT"
+date:   2016-05-01 18:03:21 -0500
+categories: somfy iot work design thinking strategy
+image-url: "/assets/somfy/banner.png"
+selection-color: "#b1fff4"
+---
+
+[approach](#approach)<br>
+[insights](#insights)<br>
+[design proposal](#design-proposal)<br>
+[&emsp;branding](#branding)<br>
+[&emsp;product](#product)<br>
+[&emsp;app](#app)
+
+
+<br>
+<br>
+I've always found the Internet of Things to be an interesting area when it comes to thinking about what problems should be solved first. Although it has been closely associated within the realm of what is possible in technology, I feel like much of the proliferation in IoT development lack the essence of a deeper understanding of what is/isn't important for consumers. I attempted to address this problem with my last client, Somfy, a company that is uniquely focused on B2B motorised blinds. Provided below are some of the approaches I used to solve Somfy's problems, as well as getting a deeper insight into IoT.
+
+# <a name="approach"></a>approach
+
+<br><br>
+![psychophysical flow][chain]
+###### psychophysical flow
+
+<br><br><br><br>
+![cognition - mental processes][cognition ecosystem]
+#### cognition and tech ecosystem
+###### &emsp; &emsp; e.g. a simple app for reminders would allow for more cognitive resources for memory and attention
+###### &emsp; &emsp; another one was done for senses but I think one giant circle is enough :)
+
+<br><br><br><br>
+With the rising popularity of IoT for home consumers, Somfy needed to transition itself to have more B2C presence. To give context to this problem, my brief as Somfy’s consultant was to create unique life moments with a system of connected products.
+
+Before thinking about IoT in the home, I thought about what the technology fundamentally meant. They are part of the tech ecosystem, but in a grander scale they're part of the home ecosystem. It's a simple thought but a profound one when thinking about the scope of what hasn't been done via tech. Freeing myself from the confine of what's not possible in tech and rather thinking about all the different things we do at home that aren't "techy" gave me more perspective.
+
+I also realised that there was a psychophysical flow that links the home product ecosystem to the moments experienced at home. Shown below is a mapping of of how various products at home affect both cognition and senses and the layers that go in between them.
+
+More specificity was needed in order to know what unique life moments really meant at home.
+
+The implication of the brief was quite broad, and contextualization was needed. The project was broken down into three phases: research, [frame creation][frame creation paper], then ideation+solution.
+
+# <a name="insights"></a>insights
+
+During the research and design phase, it was found out that:
+
+1. The first thing people often do when they get back home to enjoy a particular moment, lights are switched on.
+2. The perception of IoT is that it is complicated to set up or expensive, ironically hard to control, and that it should be simple, easy to use, and save time.
+3. Technology that exists nowadays often enhances a zone of a user's cognitive abilities, but often at the expense of another (e.g. using smartphones during dinner can enable the user to communicate someone else far away, but at the expense of their divided attention with the taste of their food or the people they're sitting with)
+4. Ambience is a key ingredient into the constitution of a person's feeling of relaxation, as it enhances their sensory and mental processes.
+
+<br><br>
+### TL;DR How can Somfy develop a product ecosystem that enhances moments but not divide it?
+
+<br><br><br>
+# <a name="design-proposal"></a>design proposal
+
+## <a name="branding"></a>branding
+
+<br>
+![branding][branding]
+
+<br><br><br>
+The branding of Somfy's new products should firstly be friendly and approachable, while at the same time represent a clear extension of Somfy's existing main brand. It also needs to express the product being something that expresses its involvement in the IoT space and that it enhances moments.
+
+It was in this light that the product solution was coined "Presense", a portmanteau of 'Pre' and 'Sensing', as well as functioning as a homonym of presence, alluding to that the product will always be there to aid you.
+
+The roundedness of the font and shapes allude to the brand's friendliness, supported by the semi-neutral colour palette that also functions to extend Somfy's main brand aesthetics.
+
+The P of the logo ("p"resense) functions as the stamp of the brand that is clear, recognizable, and alludes to the product's function and shape.
+
+## <a name="product"></a>product
+
+<br><br><br>
+![presense features][presense features]
+
+<br><br><br>
+![presense system][presense system]
+##### Presense system
+
+<br><br><br>
+The system solution of the product revolves around the concept of having someone "always there" to adjust your ambience, instead of needing you to change it yourself. Machine learning was incorporated so that user behaviour and preferences can be learned and Somfy Presense will adjust accordingly in the future, cross-correlating this information with external data such as weather, geographical location, and sensor inputs.
+
+<br><br><br>
+![tangible user interface][tui]
+##### TUI + Hub
+
+![tangible user interface removed][tui flat]
+##### TUI removed
+
+A central hub (also a tangible user interface) acts as the learner of user behaviour and processes it all locally within itself, without giving any of this data away to third party vendors, even to Somfy's servers.
+
+<br><br><br>
+![blinds][blinds]![lights][lights]![plugs][plugs]
+##### additional packaged accessories (motorized blinds, motorized lights, and smart plugs)
+
+<br><br><br>
+## <a name="app"></a>app
+
+<br><br>
+<div class="video-container">
+  <video width="250" height="415" autoplay playsinline muted loop>
+    <source src="../assets/somfy/1_login_setup.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br><br>
+<div class="video-container">
+  <video width="250" height="415" autoplay playsinline muted loop>
+    <source src="../assets/somfy/2_setup_hue.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br><br>
+<div class="video-container">
+  <video width="250" height="415" autoplay playsinline muted loop>
+    <source src="../assets/somfy/3_moments.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
+
+[chain]: ../assets/somfy/chain.png
+[project framework]: ../assets/somfy/framework.png
+[cognition ecosystem]: ../assets/somfy/cognition_ecosystem.png
+[branding]: ../assets/somfy/branding.png
+[presense features]: ../assets/somfy/presense_features.png
+[presense system]: ../assets/somfy/presense_system.png
+[tui]: ../assets/somfy/tui.jpg
+[tui flat]: ../assets/somfy/tui_flat.jpg
+[blinds]: ../assets/somfy/blinds.jpg
+[lights]: ../assets/somfy/lights.jpg
+[plugs]: ../assets/somfy/plugs.jpg
+
+
+[frame creation paper]: http://www.sciencedirect.com/science/article/pii/S2405872615300241

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-01-22T17:53:23-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">website overhaul</title><link href="http://0.0.0.0:4000/website-overhaul" rel="alternate" type="text/html" title="website overhaul" /><published>2016-12-07T00:00:00-05:00</published><updated>2016-12-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/website-overhaul</id><content type="html" xml:base="http://0.0.0.0:4000/website-overhaul">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Somfy IoT</title><link href="http://0.0.0.0:4000/somfy" rel="alternate" type="text/html" title="Somfy IoT" /><published>2016-05-01T19:03:21-04:00</published><updated>2016-05-01T19:03:21-04:00</updated><id>http://0.0.0.0:4000/somfy</id><content type="html" xml:base="http://0.0.0.0:4000/somfy">&lt;p&gt;&lt;a href=&quot;#approach&quot;&gt;approach&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;#insights&quot;&gt;insights&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;#design-proposal&quot;&gt;design proposal&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;#branding&quot;&gt; branding&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;#product&quot;&gt; product&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;#app&quot;&gt; app&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+I’ve always found the Internet of Things to be an interesting area when it comes to thinking about what problems should be solved first. Although it has been closely associated within the realm of what is possible in technology, I feel like much of the proliferation in IoT development lack the essence of a deeper understanding of what is/isn’t important for consumers. I attempted to address this problem with my last client, Somfy, a company that is uniquely focused on B2B motorised blinds. Provided below are some of the approaches I used to solve Somfy’s problems, as well as getting a deeper insight into IoT.&lt;/p&gt;
+
+&lt;h1 id=&quot;approach&quot;&gt;&lt;a name=&quot;approach&quot;&gt;&lt;/a&gt;approach&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/somfy/chain.png&quot; alt=&quot;psychophysical flow&quot; /&gt;&lt;/p&gt;
+&lt;h6 id=&quot;psychophysical-flow&quot;&gt;psychophysical flow&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/somfy/cognition_ecosystem.png&quot; alt=&quot;cognition - mental processes&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;cognition-and-tech-ecosystem&quot;&gt;cognition and tech ecosystem&lt;/h4&gt;
+&lt;h6 id=&quot;--eg-a-simple-app-for-reminders-would-allow-for-more-cognitive-resources-for-memory-and-attention&quot;&gt;    e.g. a simple app for reminders would allow for more cognitive resources for memory and attention&lt;/h6&gt;
+&lt;h6 id=&quot;--another-one-was-done-for-senses-but-i-think-one-giant-circle-is-enough-&quot;&gt;    another one was done for senses but I think one giant circle is enough :)&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+With the rising popularity of IoT for home consumers, Somfy needed to transition itself to have more B2C presence. To give context to this problem, my brief as Somfy’s consultant was to create unique life moments with a system of connected products.&lt;/p&gt;
+
+&lt;p&gt;Before thinking about IoT in the home, I thought about what the technology fundamentally meant. They are part of the tech ecosystem, but in a grander scale they’re part of the home ecosystem. It’s a simple thought but a profound one when thinking about the scope of what hasn’t been done via tech. Freeing myself from the confine of what’s not possible in tech and rather thinking about all the different things we do at home that aren’t “techy” gave me more perspective.&lt;/p&gt;
+
+&lt;p&gt;I also realised that there was a psychophysical flow that links the home product ecosystem to the moments experienced at home. Shown below is a mapping of of how various products at home affect both cognition and senses and the layers that go in between them.&lt;/p&gt;
+
+&lt;p&gt;More specificity was needed in order to know what unique life moments really meant at home.&lt;/p&gt;
+
+&lt;p&gt;The implication of the brief was quite broad, and contextualization was needed. The project was broken down into three phases: research, &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S2405872615300241&quot;&gt;frame creation&lt;/a&gt;, then ideation+solution.&lt;/p&gt;
+
+&lt;h1 id=&quot;insights&quot;&gt;&lt;a name=&quot;insights&quot;&gt;&lt;/a&gt;insights&lt;/h1&gt;
+
+&lt;p&gt;During the research and design phase, it was found out that:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The first thing people often do when they get back home to enjoy a particular moment, lights are switched on.&lt;/li&gt;
+  &lt;li&gt;The perception of IoT is that it is complicated to set up or expensive, ironically hard to control, and that it should be simple, easy to use, and save time.&lt;/li&gt;
+  &lt;li&gt;Technology that exists nowadays often enhances a zone of a user’s cognitive abilities, but often at the expense of another (e.g. using smartphones during dinner can enable the user to communicate someone else far away, but at the expense of their divided attention with the taste of their food or the people they’re sitting with)&lt;/li&gt;
+  &lt;li&gt;Ambience is a key ingredient into the constitution of a person’s feeling of relaxation, as it enhances their sensory and mental processes.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;tldr-how-can-somfy-develop-a-product-ecosystem-that-enhances-moments-but-not-divide-it&quot;&gt;TL;DR How can Somfy develop a product ecosystem that enhances moments but not divide it?&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;design-proposal&quot;&gt;&lt;a name=&quot;design-proposal&quot;&gt;&lt;/a&gt;design proposal&lt;/h1&gt;
+
+&lt;h2 id=&quot;branding&quot;&gt;&lt;a name=&quot;branding&quot;&gt;&lt;/a&gt;branding&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/somfy/branding.png&quot; alt=&quot;branding&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+The branding of Somfy’s new products should firstly be friendly and approachable, while at the same time represent a clear extension of Somfy’s existing main brand. It also needs to express the product being something that expresses its involvement in the IoT space and that it enhances moments.&lt;/p&gt;
+
+&lt;p&gt;It was in this light that the product solution was coined “Presense”, a portmanteau of ‘Pre’ and ‘Sensing’, as well as functioning as a homonym of presence, alluding to that the product will always be there to aid you.&lt;/p&gt;
+
+&lt;p&gt;The roundedness of the font and shapes allude to the brand’s friendliness, supported by the semi-neutral colour palette that also functions to extend Somfy’s main brand aesthetics.&lt;/p&gt;
+
+&lt;p&gt;The P of the logo (“p”resense) functions as the stamp of the brand that is clear, recognizable, and alludes to the product’s function and shape.&lt;/p&gt;
+
+&lt;h2 id=&quot;product&quot;&gt;&lt;a name=&quot;product&quot;&gt;&lt;/a&gt;product&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/somfy/presense_features.png&quot; alt=&quot;presense features&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/somfy/presense_system.png&quot; alt=&quot;presense system&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;presense-system&quot;&gt;Presense system&lt;/h5&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+The system solution of the product revolves around the concept of having someone “always there” to adjust your ambience, instead of needing you to change it yourself. Machine learning was incorporated so that user behaviour and preferences can be learned and Somfy Presense will adjust accordingly in the future, cross-correlating this information with external data such as weather, geographical location, and sensor inputs.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/somfy/tui.jpg&quot; alt=&quot;tangible user interface&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;tui--hub&quot;&gt;TUI + Hub&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/somfy/tui_flat.jpg&quot; alt=&quot;tangible user interface removed&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;tui-removed&quot;&gt;TUI removed&lt;/h5&gt;
+
+&lt;p&gt;A central hub (also a tangible user interface) acts as the learner of user behaviour and processes it all locally within itself, without giving any of this data away to third party vendors, even to Somfy’s servers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/somfy/blinds.jpg&quot; alt=&quot;blinds&quot; /&gt;&lt;img src=&quot;../assets/somfy/lights.jpg&quot; alt=&quot;lights&quot; /&gt;&lt;img src=&quot;../assets/somfy/plugs.jpg&quot; alt=&quot;plugs&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;additional-packaged-accessories-motorized-blinds-motorized-lights-and-smart-plugs&quot;&gt;additional packaged accessories (motorized blinds, motorized lights, and smart plugs)&lt;/h5&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;app&quot;&gt;&lt;a name=&quot;app&quot;&gt;&lt;/a&gt;app&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/somfy/1_login_setup.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/somfy/2_setup_hue.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/somfy/3_moments.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;</content><summary type="html">approach
+insights
+design proposal
+ branding
+ product
+ app</summary></entry><entry><title type="html">Vibram in China</title><link href="http://0.0.0.0:4000/vibram" rel="alternate" type="text/html" title="Vibram in China" /><published>2015-12-20T00:00:00-05:00</published><updated>2015-12-20T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vibram</id><content type="html" xml:base="http://0.0.0.0:4000/vibram">&lt;h1 id=&quot;task&quot;&gt;task&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/vibram/task1.jpg&quot; alt=&quot;task 1&quot; /&gt;&lt;img src=&quot;../assets/vibram/task2.jpg&quot; alt=&quot;task 2&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;what&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/vibram/what1.jpg&quot; alt=&quot;what is vibram - core&quot; /&gt;&lt;img src=&quot;../assets/vibram/what2.jpg&quot; alt=&quot;what is vibram - secondary&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;design-method&quot;&gt;design method&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;img src=&quot;../assets/vibram/method.png&quot; alt=&quot;design method&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;key-insights&quot;&gt;key insights&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/vibram/insight1.jpg&quot; alt=&quot;insight - brand&quot; /&gt;&lt;img src=&quot;../assets/vibram/insight2.jpg&quot; alt=&quot;insight - outdoor perception&quot; /&gt;
+&lt;img src=&quot;../assets/vibram/insight3.jpg&quot; alt=&quot;insight - brand perception&quot; /&gt;&lt;img src=&quot;../assets/vibram/insight4.jpg&quot; alt=&quot;insight - chinese lifestyle&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;vibrams-redefined-values&quot;&gt;Vibram’s redefined values&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/vibram/translated-values.png&quot; alt=&quot;translated values&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was found that much of Vibram’s Western-leaning values translated into something different in China. Redefining “outdoor” from a Chinese perspective, whilst ensuring the core values of the Vibram brand were communicated, was crucial for the development of the design proposal.&lt;/p&gt;
+
+&lt;h1 id=&quot;design-proposal&quot;&gt;design proposal&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/vibram/design-objectives.png&quot; alt=&quot;design objectives&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vibram as a brand is not widely known in China, thus it would be important to establish a brand presence that clearly communicates its values. Secondly, although the brand is not widely known, Vibram’s secondary products such as its FiveFingers shoes have high recognisability as a product itself due to its novelty. If some novelty factor were to be incorporated in promoting Vibram’s main product of rubber soles without changing the product itself, its product knowledge can be increased. The design solutions focused on these two objectives while keeping objectives 3 and 4 in mind.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;vdiscover-app&quot;&gt;vdiscover app&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/vibram/app1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;h5&gt;active route planner&lt;/h5&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/vibram/app2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+The first component of the app is a route planner that calculates alternative routes on top of the quickest one. This allows to explore more of their immediate surroundings, getting them literally outdoors more. Also included are Vibram recommended urban landmarks that users can see and explore, and Vibram events that are happening nearby.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/vibram/app3.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;&lt;h5&gt;meet and find active friends&lt;/h5&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+The second component of the app allows users to meet each other and explore activities. The radio button allows users to broadcast their location to friends, and approximate location to people who have similar fitness habits, hobbies, and interests, and connect with each other.&lt;/p&gt;
+
+&lt;p&gt;Ultimately vdiscover tries to establish brand knowledge for Vibram by indirectly pushing its users to walk, explore, and connect more, aligning it with the company’s proposed values and vision of “urban outdoors” and communal well-being.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;marketing-signage&quot;&gt;marketing signage&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;img src=&quot;../assets/vibram/signage0.jpg&quot; alt=&quot;signage 0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/vibram/signage1.jpg&quot; alt=&quot;signage 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/vibram/signage2.jpg&quot; alt=&quot;signage 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/vibram/signage3.jpg&quot; alt=&quot;signage 3&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;On top of the app, marketing signage similar to traditional advertisement campaigns were designed to establish product, brand, as well as app knowledge. The wet caution signs indirectly informs passerbys that Vibram has excellent grip from its rubber soles, while the other signage tries to nudge people to take a route less travelled as well as to promote the vdiscover app.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;product-placement&quot;&gt;product placement&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/vibram/product1.jpg&quot; alt=&quot;product 1&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;old-and-new-product-visibility&quot;&gt;old and new product visibility&lt;/h5&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/vibram/product2.jpg&quot; alt=&quot;product 2&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;new-product-signage&quot;&gt;new product signage&lt;/h5&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+The tags attempt to enhance Vibram’s product visibility, as well as provide redeemable reward schemes and promote vdiscover.&lt;/p&gt;</content><summary type="html">task</summary></entry><entry><title type="html">Hong Kong Recycles</title><link href="http://0.0.0.0:4000/hong-kong-recycles" rel="alternate" type="text/html" title="Hong Kong Recycles" /><published>2015-10-30T01:00:00-04:00</published><updated>2015-10-30T01:00:00-04:00</updated><id>http://0.0.0.0:4000/hong-kong-recycles</id><content type="html" xml:base="http://0.0.0.0:4000/hong-kong-recycles">&lt;p&gt;&lt;img src=&quot;../assets/hkr/banner2.png&quot; alt=&quot;main image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project will always be remain in my mind, as it was my first client project and also the first project that popped my design cherry ;), transitioning from what was an academic research path into a more creative one.&lt;/p&gt;
+
+&lt;p&gt;The aim for this project was to design a strategy for a bootstrapped startup (HKR, or Hong Kong Recycles) which brings value-added recycling services to Hong Kong in the form of data metrics and accountability. This work also got me thinking about the dynamic political situation in Hong Kong and its relationship with Mainland China, particularly at how dependent the city is to basic services provided by China and how it is in this writer’s opinion that it might be overlooked by the younger generation’s thirst for “true” democracy and maybe even independence for the more radically minded. Anyway, I think I’ll save that for a later post.&lt;/p&gt;
+
+&lt;h1 id=&quot;logistics-system-redesign&quot;&gt;logistics system redesign&lt;/h1&gt;
+
+&lt;p&gt;HKR as a fairly new startup is bootstrapped on cash. Because logistics constitutes the meat and bones of its business, I wondered if there were any way to make it more streamlined.&lt;/p&gt;
+
+&lt;h2 id=&quot;modular-system&quot;&gt;modular system&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/hkr/blocks.png&quot; alt=&quot;modular blocks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I thought about the logistics system redesign from short and long term perspectives, whereby the short-term solutions can be implemented with very little capital and have an immediate positive impact on the company, opposed to the long-term solution which would require more capital.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;data-recording-app&quot;&gt;data recording app&lt;/h2&gt;
+&lt;h4 id=&quot;short-term-implementation&quot;&gt;short term implementation&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;500&quot; height=&quot;375&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/hkr/app1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;500&quot; height=&quot;375&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/hkr/app2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;500&quot; height=&quot;375&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;../assets/hkr/app3.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+HKR’s current method (as of the posting date of this article) of inputting data from their recycling boxes requires the collection-personnel to personally record its box-id, weight, type, and date on pen and paper, which is then re-entered on a spreadsheet electronically. I wrote a simple app in Objective-C which completely eliminates this method by using the phone’s camera to scan the box’s newly implemented QR code, and typing in the weight and selecting the recycling type from a drop-down list. The information is then emailed to HKR’s back-office and can be copy-pasted into a spreadsheet and automatically parsed. Once a database has been developed, the app can be modified to send it directly there instead of an email.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;box-redesign&quot;&gt;box redesign&lt;/h2&gt;
+&lt;h4 id=&quot;medium-to-long-term-implementation&quot;&gt;medium-to-long term implementation&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/hkr/bin.png&quot; alt=&quot;box redesign&quot; /&gt;&lt;/p&gt;
+&lt;h6 id=&quot;box-redesign-1&quot;&gt;box redesign&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+The original box used cardboard and a plastic bag that could be used only once. This was then reconceptualized into a more sturdy corrugated plastic box design that could be reused several times before it itself needed to be recycled in order to save capital.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;business-redesign&quot;&gt;business redesign&lt;/h2&gt;
+&lt;h4 id=&quot;medium-to-long-term-implementation-1&quot;&gt;medium-to-long term implementation&lt;/h4&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;../assets/hkr/clients.png&quot; alt=&quot;potential client list&quot; /&gt;&lt;/p&gt;
+&lt;h6 id=&quot;client-possibilities&quot;&gt;client possibilities&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+HKR’s current clientele are limited to residential and corporate offices where recycling accountability and data can be important for their corporate sustainability image. We sought to find a way to improve the company’s cashflow with minimal effort by first looking at every other potential client sector possible in Hong Kong where value exchange is mutual.&lt;/p&gt;
+
+&lt;h2 id=&quot;hotels&quot;&gt;hotels&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/hkr/tuve.jpg&quot; alt=&quot;tuve hotel&quot; /&gt;&lt;/p&gt;
+&lt;h6 id=&quot;tuve-hotel&quot;&gt;TUVE hotel&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+After an analysis of each potential client, we realized that hotels offer a few distinct advantages for HKR that the others do not.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1-clean-recyclables&quot;&gt;1. clean recyclables&lt;/h3&gt;
+
+&lt;p&gt;Hong Kong’s recycling industry is quite immature and requires the manual sorting and cleaning of recyclables. Site visits to hotels suggests that their recyclables, most of which are byproducts of their promotional materials like complimentary shampoo and towelettes, are clean and easy to recycle. This contrasts with the quality of household and corporate recyclables where it is often mixed with undesirable organics or combustibles.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-high-recycling-quantity&quot;&gt;2. high recycling quantity&lt;/h3&gt;
+
+&lt;p&gt;Hotels consistently have a high quantity of recyclables. Coupled with its cleanliness, hotel recyclables are thus low hanging fruit for HKR to take and grab.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-mutual-value-addition&quot;&gt;3. mutual value addition&lt;/h3&gt;
+
+&lt;p&gt;Online booking agencies such as Agoda and Tripadvisor have been marketing green hotels more and more. Having HKR provide the transparency and data needed to achieve these goals could improve hotel sales by meeting various agencies’ &lt;em&gt;green&lt;/em&gt; criteria.&lt;/p&gt;</content><summary type="html"></summary></entry></feed>

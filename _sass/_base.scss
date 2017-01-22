@@ -1,0 +1,165 @@
+/* Main Content Sizes and Colours */
+$content-width: 800px;
+$max-content-width-gap: 30px;
+$max-content-width: calc(100% - 60px);
+$main-color-dark: #464646; // Pantone 
+$main-color-light: #fff;
+$main-color-medium: #818387;
+$main: $main-color-dark;
+
+/* Font Variables */
+$font-style: 'Lato', serif;
+$font-text: 'Lato', serif;
+$font-color: $main-color-dark;
+$link-color: $main-color-medium;
+$link-hover-color: $main-color-medium;
+$selection-color: #EEEEEE;
+
+/* Header Variables */
+$heading-font: 'Poppins', sans-serif;
+$heading-font-color: $main-color-dark;
+$header-border-colour: $main-color-dark;
+$header-height: 100px;
+$header-list-width: 120px;
+$header-logo-size: 30px;
+$header-logo-height: 30px;
+$header-logo-width: 41px;
+$switch-offset: 2px; // Switch nav button gap
+
+/* Social Media */
+$social-media-icon-gap-big: 20px;
+$social-media-icon-gap-med: 10px;
+$social-media-icon-gap-sm: 10px;
+
+/* Media Queries */
+$break-med-width: 850px;
+$break-small-width: 767px;
+$break-small-height: 480px;
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+@mixin transition( $args... ) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
+
+@mixin transition-duration( $args... ) {
+  -webkit-transition-duration: $args;
+  -moz-transition-duration: $args;
+  -o-transition-duration: $args;
+  transition-duration: $args;
+}
+
+@mixin transition-delay( $args... ) {
+  -webkit-transition-delay: $args;
+  -moz-transition-delay: $args;
+  -o-transition-delay: $args;
+  transition-delay: $args;
+}
+
+@mixin transition-property( $args... ) {
+  -webkit-transition-property: $args;
+  -moz-transition-property: $args;
+  -o-transition-property: $args;
+  transition-property: $args;
+}
+
+@mixin transform( $args... ) {
+  -webkit-transform: $args;
+  -moz-transform: $args;
+  -ms-transform: $args;
+  -o-transform: $args;
+  transform: $args;
+}
+
+@mixin transform-origin( $args... ) {
+  -webkit-transform-origin: $args;
+  -moz-transform-origin: $args;
+  -ms-transform-origin: $args;
+  -o-transform-origin: $args;
+  transform-origin: $args;
+}
+
+@mixin animation( $args... ) {
+  -webkit-animation: $args;
+  -moz-animation: $args;
+  -o-animation: $args;
+  animation: $args;
+}
+
+@mixin animation-fillmode( $args... ) {
+  -webkit-animation-fillmode: $args;
+  -moz-animation-fillmode: $args;
+  -o-animation-fillmode: $args;
+  animation-fillmode: $args;
+}
+
+@mixin animation-name( $args... ) {
+  -webkit-animation-name: $args;
+  -moz-animation-name: $args;
+  -o-animation-name: $args;
+  animation-name: $args;
+}
+
+@mixin animation-duration( $args... ) {
+  -webkit-animation-duration: $args;
+  -moz-animation-duration: $args;
+  -o-animation-duration: $args;
+  animation-duration: $args;
+}
+
+@mixin animation-timing-function( $args... ) {
+  -webkit-animation-timing-function: $args;
+  -moz-animation-timing-function: $args;
+  -o-animation-timing-function: $args;
+  animation-timing-function: $args;
+}
+
+@mixin radial-gradient( $args... ) {
+  -webkit-radial-gradient: $args;
+  -moz-radial-gradient: $args;
+  -o-radial-gradient: $args;
+  radial-gradient: $args;
+}
+
+@mixin keyframes( $animationName ) {
+    @-webkit-keyframes #{$animationName} {
+        @content;
+    }
+    @-moz-keyframes #{$animationName} {
+        @content;
+    }
+    @-o-keyframes #{$animationName} {
+        @content;
+    }
+    @keyframes #{$animationName} {
+        @content;
+    }
+}
+
+@mixin user-select( $args ) {
+  -webkit-user-select: $args;
+  -moz-user-select: $args;
+  -ms-user-select: $args;
+  user-select: $args;
+}
+
+@mixin flex-flow( $args ) {
+  -webkit-flex-flow: $args;
+  -moz-flex-flow: $args;
+  flex-flow: $args;
+}
+
+@mixin clip-path( $args... ) {
+  -webkit-clip-path: $args;
+  clip-path: $args;
+}

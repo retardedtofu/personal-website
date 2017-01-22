@@ -1,0 +1,41 @@
+---
+layout: default
+---
+{% if page.selection-color %}
+<style>
+  *::-moz-selection {
+    background: {{ page.selection-color }};
+  }
+
+  *::selection {
+    background: {{ page.selection-color }};
+  }
+</style>
+{% endif %}
+
+<div class="title-container">
+  <div class="page-title">{{ page.title }}</div>
+  <time>{{ page.date | date: "%b %-d, %Y"}}{% if page.author %} • {{ page.meta }}{% endif %}</time>
+</div>
+
+{{ content }}
+
+<div class="filler-block"></div>
+<div class="pagination-nav">
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url }}" class="pagination-prev duration-300">
+	    <span class="duration-300"></span>
+	    <span class="duration-300"></span>
+    	<div class="pagination-text">previous:<br> 
+    	{{ page.previous.title }}</div>
+	</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a href="{{ page.next.url }}" class="pagination-next duration-300">
+    	<span class="duration-300"></span>
+    	<span class="duration-300"></span>
+   	    <div class="pagination-text">next:<br>
+   		{{ page.next.title }}</div>
+   	</a>
+  {% endif %}
+</div>
