@@ -30,7 +30,7 @@ I thought about the logistics system redesign from short and long term perspecti
 <br><br>
 <div class="video-container">
   <video width="500" height="375" autoplay playsinline muted loop>
-    <source src="../assets/hkr/app1.mp4" type="video/mp4">
+    <source src="/assets/hkr/app1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -38,7 +38,7 @@ I thought about the logistics system redesign from short and long term perspecti
 <br><br>
 <div class="video-container">
   <video width="500" height="375" autoplay playsinline muted loop>
-    <source src="../assets/hkr/app2.mp4" type="video/mp4">
+    <source src="/assets/hkr/app2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -46,7 +46,7 @@ I thought about the logistics system redesign from short and long term perspecti
 <br><br>
 <div class="video-container">
   <video width="500" height="375" autoplay playsinline muted loop>
-    <source src="../assets/hkr/app3.mp4" type="video/mp4">
+    <source src="/assets/hkr/app3.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -99,12 +99,12 @@ Hotels consistently have a high quantity of recyclables. Coupled with its cleanl
 
 Online booking agencies such as Agoda and Tripadvisor have been marketing green hotels more and more. Having HKR provide the transparency and data needed to achieve these goals could improve hotel sales by meeting various agencies' *green* criteria. 
 
-[banner]: ../assets/hkr/banner2.png
-[blocks]: ../assets/hkr/blocks.png
-[app1]: ../assets/hkr/app1.gif
-[app2]: ../assets/hkr/app2.gif
-[app3]: ../assets/hkr/app3.gif
-[bin]: ../assets/hkr/bin.png
-[clients]: ../assets/hkr/clients.png
-[tuve]: ../assets/hkr/tuve.jpg
-[clean]: ../assets/hkr/clean.jpg
+[banner]: /assets/hkr/banner2.png
+[blocks]: /assets/hkr/blocks.png
+[app1]: /assets/hkr/app1.gif
+[app2]: /assets/hkr/app2.gif
+[app3]: /assets/hkr/app3.gif
+[bin]: /assets/hkr/bin.png
+[clients]: /assets/hkr/clients.png
+[tuve]: /assets/hkr/tuve.jpg
+[clean]: /assets/hkr/clean.jpg

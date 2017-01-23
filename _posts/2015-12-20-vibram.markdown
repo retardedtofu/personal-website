@@ -40,7 +40,7 @@ Vibram as a brand is not widely known in China, thus it would be important to es
 <br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="../assets/vibram/app1.mp4" type="video/mp4">
+    <source src="/assets/vibram/app1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -49,7 +49,7 @@ Vibram as a brand is not widely known in China, thus it would be important to es
 <br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="../assets/vibram/app2.mp4" type="video/mp4">
+    <source src="/assets/vibram/app2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -60,7 +60,7 @@ The first component of the app is a route planner that calculates alternative ro
 <br><br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="../assets/vibram/app3.mp4" type="video/mp4">
+    <source src="/assets/vibram/app3.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -99,30 +99,30 @@ On top of the app, marketing signage similar to traditional advertisement campai
 The tags attempt to enhance Vibram's product visibility, as well as provide redeemable reward schemes and promote vdiscover. 
 
 
-[banner]: ../assets/vibram/banner.png
-[task 1]: ../assets/vibram/task1.jpg
-[task 2]: ../assets/vibram/task2.jpg
-[what - core]: ../assets/vibram/what1.jpg
-[what - secondary]: ../assets/vibram/what2.jpg
-[design method]: ../assets/vibram/method.png
-[insight - brand]: ../assets/vibram/insight1.jpg
-[insight - outdoor perception]: ../assets/vibram/insight2.jpg
-[insight - brand perception]: ../assets/vibram/insight3.jpg
-[insight - chinese lifestyle]: ../assets/vibram/insight4.jpg
-[translated values]: ../assets/vibram/translated-values.png
+[banner]: /assets/vibram/banner.png
+[task 1]: /assets/vibram/task1.jpg
+[task 2]: /assets/vibram/task2.jpg
+[what - core]: /assets/vibram/what1.jpg
+[what - secondary]: /assets/vibram/what2.jpg
+[design method]: /assets/vibram/method.png
+[insight - brand]: /assets/vibram/insight1.jpg
+[insight - outdoor perception]: /assets/vibram/insight2.jpg
+[insight - brand perception]: /assets/vibram/insight3.jpg
+[insight - chinese lifestyle]: /assets/vibram/insight4.jpg
+[translated values]: /assets/vibram/translated-values.png
 
-[design objectives]: ../assets/vibram/design-objectives.png
-[app 1]: ../assets/vibram/app1.gif
-[app 2]: ../assets/vibram/app2.gif
-[app 3]: ../assets/vibram/app3.gif
+[design objectives]: /assets/vibram/design-objectives.png
+[app 1]: /assets/vibram/app1.gif
+[app 2]: /assets/vibram/app2.gif
+[app 3]: /assets/vibram/app3.gif
 
-[signage 0]: ../assets/vibram/signage0.jpg
-[signage 1]: ../assets/vibram/signage1.jpg
-[signage 2]: ../assets/vibram/signage2.jpg
-[signage 3]: ../assets/vibram/signage3.jpg
-[signage 4]: ../assets/vibram/signage4.jpg
+[signage 0]: /assets/vibram/signage0.jpg
+[signage 1]: /assets/vibram/signage1.jpg
+[signage 2]: /assets/vibram/signage2.jpg
+[signage 3]: /assets/vibram/signage3.jpg
+[signage 4]: /assets/vibram/signage4.jpg
 
-[product 1]: ../assets/vibram/product1.jpg
-[product 2]: ../assets/vibram/product2.jpg
+[product 1]: /assets/vibram/product1.jpg
+[product 2]: /assets/vibram/product2.jpg
 
 

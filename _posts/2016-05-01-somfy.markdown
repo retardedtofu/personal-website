@@ -7,12 +7,12 @@ image-url: "/assets/somfy/banner.png"
 selection-color: "#b1fff4"
 ---
 
-[approach](#approach)<br>
-[insights](#insights)<br>
-[design proposal](#design-proposal)<br>
-[&emsp;branding](#branding)<br>
-[&emsp;product](#product)<br>
-[&emsp;app](#app)
+[approach](# approach)<br>
+[insights](# insights)<br>
+[design proposal](# design-proposal)<br>
+[&emsp;branding](# branding)<br>
+[&emsp;product](# product)<br>
+[&emsp;app](# app)
 
 
 <br>
@@ -102,7 +102,7 @@ A central hub (also a tangible user interface) acts as the learner of user behav
 <br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="../assets/somfy/1_login_setup.mp4" type="video/mp4">
+    <source src="/assets/somfy/1_login_setup.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -110,7 +110,7 @@ A central hub (also a tangible user interface) acts as the learner of user behav
 <br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="../assets/somfy/2_setup_hue.mp4" type="video/mp4">
+    <source src="/assets/somfy/2_setup_hue.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -118,24 +118,24 @@ A central hub (also a tangible user interface) acts as the learner of user behav
 <br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="../assets/somfy/3_moments.mp4" type="video/mp4">
+    <source src="/assets/somfy/3_moments.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
 
 
-[chain]: ../assets/somfy/chain.png
-[project framework]: ../assets/somfy/framework.png
-[cognition ecosystem]: ../assets/somfy/cognition_ecosystem.png
-[branding]: ../assets/somfy/branding.png
-[presense features]: ../assets/somfy/presense_features.png
-[presense system]: ../assets/somfy/presense_system.png
-[tui]: ../assets/somfy/tui.jpg
-[tui flat]: ../assets/somfy/tui_flat.jpg
-[blinds]: ../assets/somfy/blinds.jpg
-[lights]: ../assets/somfy/lights.jpg
-[plugs]: ../assets/somfy/plugs.jpg
+[chain]: /assets/somfy/chain.png
+[project framework]: /assets/somfy/framework.png
+[cognition ecosystem]: /assets/somfy/cognition_ecosystem.png
+[branding]: /assets/somfy/branding.png
+[presense features]: /assets/somfy/presense_features.png
+[presense system]: /assets/somfy/presense_system.png
+[tui]: /assets/somfy/tui.jpg
+[tui flat]: /assets/somfy/tui_flat.jpg
+[blinds]: /assets/somfy/blinds.jpg
+[lights]: /assets/somfy/lights.jpg
+[plugs]: /assets/somfy/plugs.jpg
 
 
 [frame creation paper]: http://www.sciencedirect.com/science/article/pii/S2405872615300241
