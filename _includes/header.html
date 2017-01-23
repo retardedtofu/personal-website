@@ -110,7 +110,7 @@
 						<span class="page-span"></span>
 					</a>
 				</li>
-				{% for page in site.pages %} {% if page.title %}
+				{% for page in site.pages %} {% if page.title and page.title != "blog" and page.title != "work" %}
 				<li>
 					<a href="{{ page.url | prepend: site.baseurl }}" class="page-link">{{ page.title }}
 						<span class="page-span"></span>
