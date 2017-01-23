@@ -10,7 +10,7 @@ layout: default
       <span class="post-dot-3"></span>
       <span class="post-dot-4"></span>
     {% if post.image-url %}
-        <img class="post-thumbnail" src="{{ post.image-url }}"/>
+        <img class="post-thumbnail" src="{{ post.image-url | prepend: site.baseurl }}"/>
       {% endif %}
       <div class="post-title">{{ post.title }}</div><br>
       <div class="post-time">{{ post.date | date: "%b %-d, %Y" }}</div>

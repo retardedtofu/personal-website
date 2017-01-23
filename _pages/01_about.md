@@ -9,10 +9,10 @@ permalink: /about/
 <br>
 <br>
 
-### Hi! My name's Elwin. 
+### Hi! My name's Elwin.
+
 ### I'm a design strategist based in Toronto.
 
-<br>
 <br>
 <br>
 
@@ -29,4 +29,4 @@ I graduated from college to synthesize grey-goo, but realised the cross pollinat
 
 <div class="filler-block"></div>
 
-[about-picture]: /assets/logo.png
+[about-picture]: assets/logo.png

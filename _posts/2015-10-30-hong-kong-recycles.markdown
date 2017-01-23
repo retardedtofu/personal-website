@@ -24,13 +24,15 @@ HKR as a fairly new startup is bootstrapped on cash. Because logistics constitut
 I thought about the logistics system redesign from short and long term perspectives, whereby the short-term solutions can be implemented with very little capital and have an immediate positive impact on the company, opposed to the long-term solution which would require more capital.
 
 <br>
+
 ## data recording app
+
 #### short term implementation
 
 <br><br>
 <div class="video-container">
   <video width="500" height="375" autoplay playsinline muted loop>
-    <source src="/assets/hkr/app1.mp4" type="video/mp4">
+    <source src="assets/hkr/app1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -38,7 +40,7 @@ I thought about the logistics system redesign from short and long term perspecti
 <br><br>
 <div class="video-container">
   <video width="500" height="375" autoplay playsinline muted loop>
-    <source src="/assets/hkr/app2.mp4" type="video/mp4">
+    <source src="assets/hkr/app2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -46,7 +48,7 @@ I thought about the logistics system redesign from short and long term perspecti
 <br><br>
 <div class="video-container">
   <video width="500" height="375" autoplay playsinline muted loop>
-    <source src="/assets/hkr/app3.mp4" type="video/mp4">
+    <source src="assets/hkr/app3.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -56,22 +58,28 @@ I thought about the logistics system redesign from short and long term perspecti
 HKR's current method (as of the posting date of this article) of inputting data from their recycling boxes requires the collection-personnel to personally record its box-id, weight, type, and date on pen and paper, which is then re-entered on a spreadsheet electronically. I wrote a simple app in Objective-C which completely eliminates this method by using the phone's camera to scan the box's newly implemented QR code, and typing in the weight and selecting the recycling type from a drop-down list. The information is then emailed to HKR's back-office and can be copy-pasted into a spreadsheet and automatically parsed. Once a database has been developed, the app can be modified to send it directly there instead of an email.
 
 <br>
+
 ## box redesign
+
 #### medium-to-long term implementation
 
 <br><br>
 ![box redesign][bin]
+
 ###### box redesign
 
 <br><br>
 The original box used cardboard and a plastic bag that could be used only once. This was then reconceptualized into a more sturdy corrugated plastic box design that could be reused several times before it itself needed to be recycled in order to save capital.
 
 <br>
+
 ## business redesign
+
 #### medium-to-long term implementation
 
 <br><br>
 ![potential client list][clients]
+
 ###### client possibilities
 
 <br><br>
@@ -79,32 +87,36 @@ HKR's current clientele are limited to residential and corporate offices where r
 
 ## hotels
 ![tuve hotel][tuve]
+
 ###### TUVE hotel
 
 <br><br>
 After an analysis of each potential client, we realized that hotels offer a few distinct advantages for HKR that the others do not.
 
 <br><br>
+
 ### 1. clean recyclables
 
 Hong Kong's recycling industry is quite immature and requires the manual sorting and cleaning of recyclables. Site visits to hotels suggests that their recyclables, most of which are byproducts of their promotional materials like complimentary shampoo and towelettes, are clean and easy to recycle. This contrasts with the quality of household and corporate recyclables where it is often mixed with undesirable organics or combustibles.
 
 <br>
+
 ### 2. high recycling quantity
 
 Hotels consistently have a high quantity of recyclables. Coupled with its cleanliness, hotel recyclables are thus low hanging fruit for HKR to take and grab.
 
 <br>
+
 ### 3. mutual value addition
 
 Online booking agencies such as Agoda and Tripadvisor have been marketing green hotels more and more. Having HKR provide the transparency and data needed to achieve these goals could improve hotel sales by meeting various agencies' *green* criteria. 
 
-[banner]: /assets/hkr/banner2.png
-[blocks]: /assets/hkr/blocks.png
-[app1]: /assets/hkr/app1.gif
-[app2]: /assets/hkr/app2.gif
-[app3]: /assets/hkr/app3.gif
-[bin]: /assets/hkr/bin.png
-[clients]: /assets/hkr/clients.png
-[tuve]: /assets/hkr/tuve.jpg
-[clean]: /assets/hkr/clean.jpg
+[banner]: assets/hkr/banner2.png
+[blocks]: assets/hkr/blocks.png
+[app1]: assets/hkr/app1.gif
+[app2]: assets/hkr/app2.gif
+[app3]: assets/hkr/app3.gif
+[bin]: assets/hkr/bin.png
+[clients]: assets/hkr/clients.png
+[tuve]: assets/hkr/tuve.jpg
+[clean]: assets/hkr/clean.jpg

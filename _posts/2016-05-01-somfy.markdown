@@ -23,12 +23,16 @@ I've always found the Internet of Things to be an interesting area when it comes
 
 <br><br>
 ![psychophysical flow][chain]
+
 ###### psychophysical flow
 
 <br><br><br><br>
 ![cognition - mental processes][cognition ecosystem]
+
 #### cognition and tech ecosystem
+
 ###### &emsp; &emsp; e.g. a simple app for reminders would allow for more cognitive resources for memory and attention
+
 ###### &emsp; &emsp; another one was done for senses but I think one giant circle is enough :)
 
 <br><br><br><br>
@@ -52,9 +56,11 @@ During the research and design phase, it was found out that:
 4. Ambience is a key ingredient into the constitution of a person's feeling of relaxation, as it enhances their sensory and mental processes.
 
 <br><br>
+
 ### TL;DR How can Somfy develop a product ecosystem that enhances moments but not divide it?
 
 <br><br><br>
+
 # <a name="design-proposal"></a>design proposal
 
 ## <a name="branding"></a>branding
@@ -78,6 +84,7 @@ The P of the logo ("p"resense) functions as the stamp of the brand that is clear
 
 <br><br><br>
 ![presense system][presense system]
+
 ##### Presense system
 
 <br><br><br>
@@ -85,24 +92,28 @@ The system solution of the product revolves around the concept of having someone
 
 <br><br><br>
 ![tangible user interface][tui]
+
 ##### TUI + Hub
 
 ![tangible user interface removed][tui flat]
+
 ##### TUI removed
 
 A central hub (also a tangible user interface) acts as the learner of user behaviour and processes it all locally within itself, without giving any of this data away to third party vendors, even to Somfy's servers.
 
 <br><br><br>
 ![blinds][blinds]![lights][lights]![plugs][plugs]
+
 ##### additional packaged accessories (motorized blinds, motorized lights, and smart plugs)
 
 <br><br><br>
+
 ## <a name="app"></a>app
 
 <br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="/assets/somfy/1_login_setup.mp4" type="video/mp4">
+    <source src="assets/somfy/1_login_setup.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -110,7 +121,7 @@ A central hub (also a tangible user interface) acts as the learner of user behav
 <br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="/assets/somfy/2_setup_hue.mp4" type="video/mp4">
+    <source src="assets/somfy/2_setup_hue.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -118,24 +129,24 @@ A central hub (also a tangible user interface) acts as the learner of user behav
 <br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
-    <source src="/assets/somfy/3_moments.mp4" type="video/mp4">
+    <source src="assets/somfy/3_moments.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
 
 
-[chain]: /assets/somfy/chain.png
-[project framework]: /assets/somfy/framework.png
-[cognition ecosystem]: /assets/somfy/cognition_ecosystem.png
-[branding]: /assets/somfy/branding.png
-[presense features]: /assets/somfy/presense_features.png
-[presense system]: /assets/somfy/presense_system.png
-[tui]: /assets/somfy/tui.jpg
-[tui flat]: /assets/somfy/tui_flat.jpg
-[blinds]: /assets/somfy/blinds.jpg
-[lights]: /assets/somfy/lights.jpg
-[plugs]: /assets/somfy/plugs.jpg
+[chain]: assets/somfy/chain.png
+[project framework]: assets/somfy/framework.png
+[cognition ecosystem]: assets/somfy/cognition_ecosystem.png
+[branding]: assets/somfy/branding.png
+[presense features]: assets/somfy/presense_features.png
+[presense system]: assets/somfy/presense_system.png
+[tui]: assets/somfy/tui.jpg
+[tui flat]: assets/somfy/tui_flat.jpg
+[blinds]: assets/somfy/blinds.jpg
+[lights]: assets/somfy/lights.jpg
+[plugs]: assets/somfy/plugs.jpg
 
 
 [frame creation paper]: http://www.sciencedirect.com/science/article/pii/S2405872615300241
