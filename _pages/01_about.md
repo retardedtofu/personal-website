@@ -29,4 +29,4 @@ I graduated from college to synthesize grey-goo, but realised the cross pollinat
 
 <div class="filler-block"></div>
 
-[about-picture]: ../assets/logo.png
+[about-picture]: /assets/logo.png

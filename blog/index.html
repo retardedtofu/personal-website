@@ -12,7 +12,7 @@ layout: default
 
 		{% if post.image-url %}
 			<!--<a href="{{ post.url | prepend: site.baseurl }}">-->
-				<img class="post-thumbnail" src="{{ post.image-url }}"/>
+				<img class="post-thumbnail" src="{{ post.image-url | prepend: site.baseurl }}"/>
 			<!--</a>-->
 		{% endif %}
 		<div class="post-title">{{ post.title }}</div><br>
