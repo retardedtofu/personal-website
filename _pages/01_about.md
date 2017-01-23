@@ -14,7 +14,7 @@ permalink: /about/
 <br>
 <br>
 
-I’ve done branding, graphic, product, app, and web design/dev (and academic research before that) but I’m more emotionally invested in applying all these skills into solving big problems for different clients, of which design thinking happens to be the best tool to solve them with.
+I’ve done branding, graphic, product, app, and web design/dev (and academic research before that) but I’m more emotionally invested in applying these skills into solving big problems for different clients, of which design thinking happens to be the best tool to solve them with.
 
 <br>
 <br>
