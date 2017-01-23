@@ -142,8 +142,8 @@ A central hub (also a tangible user interface) acts as the learner of user behav
 [branding]: assets/somfy/branding.png
 [presense features]: assets/somfy/presense_features.png
 [presense system]: assets/somfy/presense_system.png
-[tui]: assets/somfy/tui.jpg
-[tui flat]: assets/somfy/tui_flat.jpg
+[tui]: assets/somfy/tangible_ui.jpg
+[tui flat]: assets/somfy/tangible_ui_flat.jpg
 [blinds]: assets/somfy/blinds.jpg
 [lights]: assets/somfy/lights.jpg
 [plugs]: assets/somfy/plugs.jpg
