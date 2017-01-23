@@ -28,10 +28,8 @@ $(document).ready(function(){
 
       $(".img-social-media-icon-link").addClass("default-social-media-icon-state");
     } else if (toggleNavButton) {
-      console.log("turn nav button on");
       toggleNavButtonOn();
     } else if (!toggleNavButton) {
-      console.log("turn nav button off");
       toggleNavButtonOff();
     }
   }
@@ -159,15 +157,12 @@ $(document).ready(function(){
 
   // Social Media Icon Logic
   $(".img-social-media-icon-link").hover(function() {
-    console.log("in");
-    console.log($(this).find(".img-social-media-stroke-in"));
     $(this).find(".img-social-media-stroke-in").removeClass("animate-stroke-in-phase-out");
     $(this).find(".img-social-media-stroke-out").removeClass("animate-stroke-out-phase-out");
   
     $(this).find(".img-social-media-stroke-in").addClass("animate-stroke-in-phase-in");
     $(this).find(".img-social-media-stroke-out").addClass("animate-stroke-out-phase-in");
   }, function() {
-    console.log("out");
     $(this).find(".img-social-media-stroke-in").removeClass("animate-stroke-in-phase-in");
     $(this).find(".img-social-media-stroke-out").removeClass("animate-stroke-out-phase-in");
   
