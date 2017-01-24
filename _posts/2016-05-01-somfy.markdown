@@ -5,6 +5,7 @@ date:   2016-05-01 18:03:21 -0500
 categories: somfy iot work design thinking strategy
 image-url: "/assets/somfy/banner.png"
 selection-color: "#b1fff4"
+description: "Somfy: Lorem ipsum dolor sit amet, consectitur"
 ---
 
 [approach](# approach)<br>

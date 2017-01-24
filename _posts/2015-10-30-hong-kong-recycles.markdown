@@ -5,6 +5,7 @@ date:   2015-10-30 00:00:00 -0500
 categories: work
 image-url: "/assets/hkr/banner2.png"
 //selection-color: "#68cb8f"
+description: "HKR: Lorem ipsum dolor sit amet, consectitur"
 ---
 
 ![main image][banner]

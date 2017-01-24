@@ -5,6 +5,7 @@ date:   2015-12-20 00:00:00 -0500
 categories: vibram shoes outdoor marketing brand branding work
 image-url: "/assets/vibram/banner.png"
 selection-color: "#f9ec00"
+description: "Vibram: Lorem ipsum dolor sit amet, consectitur"
 ---
 
 # task

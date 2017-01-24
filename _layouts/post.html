@@ -23,7 +23,7 @@ layout: default
 <div class="filler-block"></div>
 <div class="pagination-nav">
   {% if page.previous.url %}
-    <a href="{{ page.previous.url }}" class="pagination-prev duration-300">
+    <a href="{{ page.previous.url  | prepend:site.baseurl }}" class="pagination-prev duration-300">
 	    <span class="duration-300"></span>
 	    <span class="duration-300"></span>
     	<div class="pagination-text">previous:<br> 
@@ -31,7 +31,7 @@ layout: default
 	</a>
   {% endif %}
   {% if page.next.url %}
-    <a href="{{ page.next.url }}" class="pagination-next duration-300">
+    <a href="{{ page.next.url | prepend:site.baseurl }}" class="pagination-next duration-300">
     	<span class="duration-300"></span>
     	<span class="duration-300"></span>
    	    <div class="pagination-text">next:<br>
