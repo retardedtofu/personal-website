@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-01-23T20:25:14-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-01-24T21:06:16-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Somfy IoT</title><link href="http://0.0.0.0:4000/somfy" rel="alternate" type="text/html" title="Somfy IoT" /><published>2016-05-01T19:03:21-04:00</published><updated>2016-05-01T19:03:21-04:00</updated><id>http://0.0.0.0:4000/somfy</id><content type="html" xml:base="http://0.0.0.0:4000/somfy">&lt;p&gt;&lt;a href=&quot;# approach&quot;&gt;approach&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;# insights&quot;&gt;insights&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;# design-proposal&quot;&gt;design proposal&lt;/a&gt;&lt;br /&gt;
@@ -125,7 +125,9 @@ The system solution of the product revolves around the concept of having someone
     &lt;source src=&quot;assets/somfy/3_moments.mp4&quot; type=&quot;video/mp4&quot; /&gt;
     Your browser does not support the video tag.
   &lt;/video&gt;
-&lt;/div&gt;</content><summary type="html">approach
+&lt;/div&gt;
+
+&lt;p&gt;The app serves as an access point to configure settings, routines, and add other devices into Presense. The design intent is for users to use the app as few times as possible and leave Presense TUI do all the work.&lt;/p&gt;</content><summary type="html">approach
 insights
 design proposal
  branding
