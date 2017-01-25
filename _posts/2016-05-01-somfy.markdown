@@ -8,12 +8,12 @@ selection-color: "#b1fff4"
 description: "Somfy: Lorem ipsum dolor sit amet, consectitur"
 ---
 
-[approach](# approach)<br>
-[insights](# insights)<br>
-[design proposal](# design-proposal)<br>
-[&emsp;branding](# branding)<br>
-[&emsp;product](# product)<br>
-[&emsp;app](# app)
+[approach](#approach)<br>
+[insights](#insights)<br>
+[design proposal](#design-proposal)<br>
+[&emsp;branding](#branding)<br>
+[&emsp;product](#product)<br>
+[&emsp;app](#app)
 
 
 <br>
