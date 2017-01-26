@@ -3,17 +3,11 @@ layout: default
 title: work
 ---
 
+
 {% for post in site.posts %}
-  {% for category in post.categories %}
-    {% if category == "work" %}
+  {% for tag in post.tags %}
+    {% if tag == "work" %}
     <a class="post-container" href="{{ post.url | prepend: site.baseurl }}">
-      <span class="post-dot-1"></span>
-      <span class="post-dot-2"></span>
-      <span class="post-dot-3"></span>
-      <span class="post-dot-4"></span>
-    {% if post.image-url %}
-        <img class="post-thumbnail" src="{{ post.image-url | prepend: site.baseurl }}"/>
-      {% endif %}
       <div class="post-title">{{ post.title }}</div><br>
       <div class="post-time">{{ post.date | date: "%b %-d, %Y" }}</div>
     </a>

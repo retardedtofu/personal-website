@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Vibram in China"
+title:  "Rebranding Vibram for China"
 date:   2015-12-20 00:00:00 -0500
-categories: vibram shoes outdoor marketing brand branding work
-image-url: "/assets/vibram/banner.png"
+categories: east meets west branding culture values
+tags: work
+image-url: "/assets/vibram/banner2.png"
 selection-color: "#f9ec00"
-description: "Vibram: Lorem ipsum dolor sit amet, consectitur"
+description: "How would a Western brand’s values be communicated in a different culture? How would its values change?"
 ---
 
 # task
 
 ![task 1][task 1]![task 2][task 2]
-
 
 # what
 

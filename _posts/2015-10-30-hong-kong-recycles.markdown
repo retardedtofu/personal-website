@@ -2,10 +2,11 @@
 layout: post
 title:  "Hong Kong Recycles"
 date:   2015-10-30 00:00:00 -0500
-categories: work
+categories: sustainability politics logistics app design 
+tags: work
 image-url: "/assets/hkr/banner2.png"
 //selection-color: "#68cb8f"
-description: "HKR: Lorem ipsum dolor sit amet, consectitur"
+description: "How does the recycling industry add value for people who recycle?"
 ---
 
 ![main image][banner]

@@ -153,55 +153,92 @@ header {
 $dot-travel-distance: 20px;
 $dot-position: -20px;
 
+.post-container > * {
+	vertical-align: middle;
+}
+
 .post-container {
-	position: relative;
 	display: block;
 	margin-bottom: 100px;
 	color: $main-color-dark;
-	text-align: center;
-	    
+	text-align: left;
 	time {
 		color: $main-color-dark;
 	}
 	
-	.post-thumbnail {
+	.post-text-container {
+		vertical-align: middle;
 		display: inline-block;
-	    margin-left: auto;
-	    margin-right: auto;
-		width: auto;
-		height: auto;
+		width: 400px;
 		max-width: 100%;
-		max-height: 200px;
-		margin-bottom: 20px;
-		@include transform-origin( left );
-		@include transition( all 300ms cubic-bezier(0.25, 0.1, 0.25, 1) );
+	}
+
+	.post-thumbnail-container {
+		display: inline-block;
+		text-align: center;
+		width: 400px;
+		max-width: 100%;
+		height: 100%;
+		max-height: 100%;
+	}
+
+	.post-thumbnail {
+		vertical-align: middle;
+		margin: auto;
+		padding-right: 25px;
+		padding-top: 25px;
+		display: inline-block;
+	    max-width: 100%;
+		max-height: 250px;
 	}
 
 	.post-title, .post-title:visited {
 		position: relative;
-		line-height: 0;
+		line-height: 1.24;
 		padding-top: 35px;
 		color: $main-color-dark;
 		font-family: $heading-font;
 		font-weight: 500;
-		font-size: 20px;
+		font-size: 25px;
 		letter-spacing: 2px;
 		text-decoration: none;
+		font-variant-ligatures: none;
 	}
 
 	.post-title, .post-time {
-		
 		position: relative;
+		color: black;
 		text-align: left;
-	
 		@include transition( all 300ms cubic-bezier(0.25, 0.1, 0.25, 1) );
 	}
 
 	.post-time {
 		@extend time;
+		vertical-align: top;
+		color: $main-color-medium;
 		font-weight: 300;
+		display: inline-block;
+		margin-right: 50px;
+		margin-top: 0px;
+		line-height:1.5
 	}
 
+	.post-categories {
+		@extend .post-time;
+		margin-right: 0;
+		width: 230px;
+		max-width: 100%;
+		display: inline-block;
+		word-spacing: 15px;
+	}
+
+	.post-description {
+		color: black;
+		margin-top: 20px;
+		font-weight: 400;
+		font-size: 14px;
+	}
+	/*
 	.post-dot-1 {
 		position: absolute;
 		background: $main-color-dark;
@@ -236,6 +273,7 @@ $dot-position: -20px;
 		bottom: $dot-position;
 		top: auto;
 	}
+	*/
 
 	&:hover {
 		text-decoration: none;
@@ -278,7 +316,7 @@ aside {
 		z-index: 1;
 	}
 
-	$social-media-container-offset: 30px;
+	$social-container-offset: 30px;
 	.shift-media-container-right {
 		@include transition( all 300ms cubic-bezier(0.25, 0.1, 0.25, 1) );
 		@include transform( translate3d( 30px, 0, 0) );
@@ -694,7 +732,19 @@ footer {
 	@include transition-delay( 0 );
 }
 
+
 /* Media Queries */
+@media (max-width: 869px) {
+	.post-thumbnail {
+		padding-left: 0;
+		padding-right: 0;
+		max-width: 100%;
+		margin: 0;
+		padding-right: 0;
+		padding-top: 0;
+	}
+}
+
 @media (max-width: $break-med-width) {
 	aside #social-media-container {
 		.img-social-media-icon-link {
