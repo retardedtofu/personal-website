@@ -4,42 +4,35 @@ title: blog
 ---
 
 {% for post in paginator.posts %}
-	<a class="post-container" href="{{ post.url | prepend: site.baseurl }}">
-		<span class="post-dot-1"></span>
-		<span class="post-dot-2"></span>
-		<span class="post-dot-3"></span>
-		<span class="post-dot-4"></span>
-
-		<div class="post-thumbnail-container">{% if post.image-url %}<img class="post-thumbnail" src="{{ post.image-url | prepend: site.baseurl }}"/>{% endif %}</div><div class="post-text-container">
-			<div class="post-title">{{ post.title }}</div><br>
-			<div class="post-time">{{ post.date | date: "%b %-d, %Y" }}</div>	
-			<div class="post-categories">
-				{% for category in post.categories %}
-					{{ category }}
-				{% endfor %}
-			</div>
-			{% if post.description %}
-				<div class="post-description">{{ post.description }}</div>
-			{% endif %}
-		</div>
-	</a>
+  <a class="blog-post" href="{{ post.url | prepend: site.baseurl }}">
+    <div class="blog-post-text">
+      <div class="blog-post-title">{{ post.title }}</div><br>
+      <div class="blog-post-time">{{ post.date | date: "%b %-d, %Y" }}</div> 
+      <div class="blog-post-categories">
+        {% for category in post.categories %}
+          {{ category }}
+        {% endfor %}
+      </div>
+      {% if post.description %}
+        <div class="blog-post-description">{{ post.description }}</div>
+      {% endif %}
+    </div><div class="blog-post-thumbnail">{% if post.image-url %}<img class="blog-post-thumbnail-image" src="{{ post.image-url | prepend: site.baseurl }}"/>{% endif %}</div>
+  </a>
 {% endfor %}
 
 <div class="pagination-nav">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="pagination-prev duration-300">
-	    <span class="duration-300"></span>
-	    <span class="duration-300"></span>
-	    <div class="pagination-text">Previous</div>
-	</a>
+    <a href="{{ site.previous_page_path }}" class="pagination-prev duration-300">
+      <span class="duration-300"></span>
+      <span class="duration-300"></span>
+      <div class="pagination-text">Previous</div>
+  </a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="pagination-next duration-300">
-    	<span class="duration-300"></span>
-    	<span class="duration-300"></span>
-   		<div class="pagination-text">Next</div>
-   	</a>
+    <a href="{{ site.next_page_path }}" class="pagination-next duration-300">
+      <span class="duration-300"></span>
+      <span class="duration-300"></span>
+      <div class="pagination-text">Next</div>
+    </a>
   {% endif %}
 </div>
-
-<!--<p>subscribe <a href="{{ '/feed.xml' | prepend: site.baseurl }}">via RSS</a></p>-->

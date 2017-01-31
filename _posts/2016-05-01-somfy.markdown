@@ -5,6 +5,7 @@ date:   2016-05-01 18:03:21 -0500
 categories: cognitive social psychology IoT machine learning
 tags: work
 image-url: "/assets/somfy/banner.png"
+
 selection-color: "#b1fff4"
 description: "My team thought about IoT from the perspective of how humans benefit psychologically from technology and designed a fullstack solution for Somfy."
 ---

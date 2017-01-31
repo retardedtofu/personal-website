@@ -5,6 +5,7 @@ date:   2016-01-22 00:00:00 -0500
 categories: nanotechnology optics MPS biomimicry
 tags: work
 image-url: "/assets/paris/banner2.png"
+
 //selection-color: "#b1fff4"
 description: "An inexpensive method to reduce sunglare by combining single layer and moth-eye antireflective technologies."
 ---

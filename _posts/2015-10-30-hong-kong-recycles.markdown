@@ -5,8 +5,9 @@ date:   2015-10-30 00:00:00 -0500
 categories: sustainability politics logistics app design 
 tags: work
 image-url: "/assets/hkr/banner2.png"
+
 //selection-color: "#68cb8f"
-description: "How does the recycling industry add value for people who recycle?"
+description: "How can the recycling industry add value for people who recycle?"
 ---
 
 ![main image][banner]

@@ -4,24 +4,19 @@ title: blog
 ---
 
 {% for post in site.posts %}
-  <a class="post-container" href="{{ post.url | prepend: site.baseurl }}">
-    <span class="post-dot-1"></span>
-    <span class="post-dot-2"></span>
-    <span class="post-dot-3"></span>
-    <span class="post-dot-4"></span>
-
-    <div class="post-thumbnail-container">{% if post.image-url %}<img class="post-thumbnail" src="{{ post.image-url | prepend: site.baseurl }}"/>{% endif %}</div><div class="post-text-container">
-      <div class="post-title">{{ post.title }}</div><br>
-      <div class="post-time">{{ post.date | date: "%b %-d, %Y" }}</div> 
-      <div class="post-categories">
+  <a class="blog-post" href="{{ post.url | prepend: site.baseurl }}">
+    <div class="blog-post-text">
+      <div class="blog-post-title">{{ post.title }}</div><br>
+      <div class="blog-post-time">{{ post.date | date: "%b %-d, %Y" }}</div> 
+      <div class="blog-post-categories">
         {% for category in post.categories %}
           {{ category }}
         {% endfor %}
       </div>
       {% if post.description %}
-        <div class="post-description">{{ post.description }}</div>
+        <div class="blog-post-description">{{ post.description }}</div>
       {% endif %}
-    </div>
+    </div><div class="blog-post-thumbnail">{% if post.image-url %}<img class="blog-post-thumbnail-image" src="{{ post.image-url | prepend: site.baseurl }}"/>{% endif %}</div>
   </a>
 {% endfor %}
 
