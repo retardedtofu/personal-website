@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-01-31T17:42:09-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-02-01T16:06:15-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Redefining IoT</title><link href="http://0.0.0.0:4000/somfy" rel="alternate" type="text/html" title="Redefining IoT" /><published>2016-05-01T19:03:21-04:00</published><updated>2016-05-01T19:03:21-04:00</updated><id>http://0.0.0.0:4000/somfy</id><content type="html" xml:base="http://0.0.0.0:4000/somfy">&lt;p&gt;&lt;a href=&quot;#approach&quot;&gt;approach&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;#insights&quot;&gt;insights&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;#design-proposal&quot;&gt;design proposal&lt;/a&gt;&lt;br /&gt;
@@ -133,6 +133,7 @@ design proposal
  branding
  product
  app</summary></entry><entry><title type="html">Passivated Antireflective Glass</title><link href="http://0.0.0.0:4000/paris" rel="alternate" type="text/html" title="Passivated Antireflective Glass" /><published>2016-01-22T00:00:00-05:00</published><updated>2016-01-22T00:00:00-05:00</updated><id>http://0.0.0.0:4000/paris</id><content type="html" xml:base="http://0.0.0.0:4000/paris">&lt;p&gt;&lt;img src=&quot;assets/paris/banner.jpg&quot; alt=&quot;banner&quot; /&gt;&lt;/p&gt;
+
 &lt;h6 id=&quot;quartz-glassleft-and-nanocoated-glassright&quot;&gt;Quartz Glass(Left) and Nanocoated Glass(Right)&lt;/h6&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
@@ -189,7 +190,7 @@ Many traffic accidents occur on an annual basis due to sun glare. Sunglasses and
 
 &lt;p&gt;It can be seen that combining nanostructures and MPS makes it transmit light better than using either, and much better than typical glass. Later studies were conducted with the Denmark Technical University to make multi-angular reflection and transmission tests, as well as better samples, but remain propeitary.&lt;/p&gt;
 
-&lt;p&gt;Project done with &lt;a href=&quot;mcleung.com&quot;&gt;Michael Leung&lt;/a&gt;, Ben Greenlay, Matthew Haines, and George Baxter.&lt;/p&gt;</content><category term="work" /><summary type="html">Quartz Glass(Left) and Nanocoated Glass(Right)</summary></entry><entry><title type="html">Rebranding Vibram for China</title><link href="http://0.0.0.0:4000/vibram" rel="alternate" type="text/html" title="Rebranding Vibram for China" /><published>2015-12-20T00:00:00-05:00</published><updated>2015-12-20T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vibram</id><content type="html" xml:base="http://0.0.0.0:4000/vibram">&lt;h1 id=&quot;task&quot;&gt;task&lt;/h1&gt;
+&lt;p&gt;Project done with &lt;a href=&quot;mcleung.com&quot;&gt;Michael Leung&lt;/a&gt;, Ben Greenlay, Matthew Haines, and George Baxter.&lt;/p&gt;</content><category term="work" /><summary type="html"></summary></entry><entry><title type="html">Rebranding Vibram for China</title><link href="http://0.0.0.0:4000/vibram" rel="alternate" type="text/html" title="Rebranding Vibram for China" /><published>2015-12-20T00:00:00-05:00</published><updated>2015-12-20T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vibram</id><content type="html" xml:base="http://0.0.0.0:4000/vibram">&lt;h1 id=&quot;task&quot;&gt;task&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/vibram/task1.jpg&quot; alt=&quot;task 1&quot; /&gt;&lt;img src=&quot;assets/vibram/task2.jpg&quot; alt=&quot;task 2&quot; /&gt;&lt;/p&gt;
 
