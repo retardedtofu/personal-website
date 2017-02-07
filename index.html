@@ -3,7 +3,7 @@ layout: default
 title: blog
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <a class="blog-post" href="{{ post.url | prepend: site.baseurl }}">
     <div class="blog-post-text">
       <div class="blog-post-title">{{ post.title }}</div><br>
@@ -21,15 +21,15 @@ title: blog
 {% endfor %}
 
 <div class="pagination-nav">
-  {% if site.previous_page %}
-    <a href="{{ site.previous_page_path }}" class="pagination-prev duration-300">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="pagination-prev duration-300">
       <span class="duration-300"></span>
       <span class="duration-300"></span>
       <div class="pagination-text">Previous</div>
   </a>
   {% endif %}
-  {% if site.next_page %}
-    <a href="{{ site.next_page_path }}" class="pagination-next duration-300">
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="pagination-next duration-300">
       <span class="duration-300"></span>
       <span class="duration-300"></span>
       <div class="pagination-text">Next</div>
