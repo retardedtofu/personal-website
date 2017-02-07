@@ -19,12 +19,25 @@ body {
   font-size: 1.1em;
   line-height: 1.8; }
 
+/* Scroll Bar */
+*::-webkit-scrollbar-track {
+  background-color: #F5F5F5; }
+
+*::-webkit-scrollbar {
+  width: 5px;
+  background-color: #F5F5F5; }
+
+*::-webkit-scrollbar-thumb {
+  background-color: #818387; }
+
+/* Selection */
 *::-moz-selection {
   background: #EEEEEE; }
 
 *::selection {
   background: #EEEEEE; }
 
+/* Headers */
 h1, .page-title,
 h2,
 h3,
@@ -34,8 +47,12 @@ h6 {
   color: #464646;
   font-family: "futura-pt", sans-serif;
   font-weight: 400;
-  line-height: 1.54;
+  line-height: 1.4;
   font-variant-ligatures: none; }
+
+h4, h5, h6 {
+  margin: 5px;
+  line-height: 1.5; }
 
 h1, .page-title {
   padding-top: 75px;
@@ -48,7 +65,7 @@ h1, .page-title {
 
 .page-title {
   width: 100%;
-  line-height: 1;
+  line-height: 1.5;
   margin-bottom: 25px; }
 
 .title-container {
@@ -184,7 +201,7 @@ header {
     margin-bottom: 20px; }
   .blog-post .blog-post-title, .blog-post .blog-post-title:visited {
     position: relative;
-    line-height: 1.24;
+    line-height: 1.4;
     padding-right: 20px;
     color: black;
     font-family: "futura-pt", sans-serif;
