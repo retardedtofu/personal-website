@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "InterFace - An Internet of People"
-date:   2017-02-08 00:00:00 -0500
+date:   2017-02-16 00:00:00 -0500
 categories: MIT hackathon sociology psychology experience design
 tags: work
 image-url: "/assets/iop/banner.png"
