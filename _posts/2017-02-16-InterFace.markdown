@@ -5,7 +5,7 @@ date:   2017-02-16 00:00:00 -0500
 categories: MIT hackathon sociology psychology experience design
 tags: work
 image-url: "/assets/iop/banner.png"
-description: "How can we use technology to overcome perceived psychological barriers to forging new and meaningful social interactions?"
+description: "How can we use technology to overcome perceived psychological barriers and forge new and meaningful social connections?"
 ---
 
 # problem
