@@ -82,7 +82,6 @@ Last summer, we witnessed the viral explosion of Pokémon Go. It was interesting
 
 I argue that values and user experiences should not just be thought of as single packets of requirements and metrics to fulfill, but rather as a network, and to think of user experience as *experience for a shared network of people*. Secondly, I think there is a large space for innovation in augmented reality, in the sense that applications and technology can serve us better in the physical space, rather than us being slaves to it in the virtual space.
 
-
 [tug of war]: assets/thesis/tug-of-war.png
 [social tech history]: assets/thesis/history-of-social-tech.png
 [mitigation model]: assets/thesis/mitigation-model.png

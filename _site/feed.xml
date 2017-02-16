@@ -1,5 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-02-07T16:31:34-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Technology and Sociology, a User Experience Analysis</title><link href="http://0.0.0.0:4000/technology-and-sociology" rel="alternate" type="text/html" title="Technology and Sociology, a User Experience Analysis" /><published>2017-02-07T00:00:00-05:00</published><updated>2017-02-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/technology-and-sociology</id><content type="html" xml:base="http://0.0.0.0:4000/technology-and-sociology">&lt;h1 id=&quot;user-user-user&quot;&gt;user, user, user.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-02-16T17:39:37-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">InterFace - An Internet of People</title><link href="http://0.0.0.0:4000/InterFace" rel="alternate" type="text/html" title="InterFace - An Internet of People" /><published>2017-02-08T00:00:00-05:00</published><updated>2017-02-08T00:00:00-05:00</updated><id>http://0.0.0.0:4000/InterFace</id><content type="html" xml:base="http://0.0.0.0:4000/InterFace">&lt;h1 id=&quot;problem&quot;&gt;problem&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/iop/perceived_barrier.png&quot; alt=&quot;perceived barrier&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our civilisations have evolved over time but we have retained ancient cognitive traits that are arguably unuseful in today’s society. In particular, we still retain the perceived barrier and hesitance to meeting new people and forging new meaningful relationships. Our team strove to shatter this barrier using the 2016 MIT Kickstart Hackathon in Hong Kong as an opportunity, where we became the winning team. Furthermore:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We are time starved&lt;/li&gt;
+  &lt;li&gt;We often ignore tangible world in favour of intangible content on screens&lt;/li&gt;
+  &lt;li&gt;We have a mental capacity for around 100 friends&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;the-case-for-conferences&quot;&gt;the case for conferences&lt;/h1&gt;
+
+&lt;p&gt;We took a look at existing settings where connections were encouraged and was the main value proposition for being there. With my team’s connections to academic and startup institutions, &lt;em&gt;conferences&lt;/em&gt; were concluded to be a fertile ground for development, because of:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Time criticality in conferences&lt;/li&gt;
+  &lt;li&gt;People meet the wrong people&lt;/li&gt;
+  &lt;li&gt;Current apps for conference engagement suck&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;solution---interface&quot;&gt;solution - InterFace&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/iop/interface_logo.png&quot; style=&quot;width: 250px; max-width:100%; margin: auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/iop/lanyard.jpg&quot; style=&quot;width: 500px; max-width:100%; margin: auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The idea is to have a lanyard with your preferences and profile loaded from your conference signup form you had to do anyway. The lanyard that will be worn by conference goers has tactile feedback on the neck and a visual cue that blinks at the same frequency and colour as another person nearby provided you both have sufficiently overlapping interests.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video width=&quot;800&quot; height=&quot;415&quot; controls=&quot;&quot;&gt;
+    &lt;source src=&quot;assets/iop/iop_video.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;vision&quot;&gt;vision&lt;/h1&gt;
+
+&lt;p&gt;With this concept and prototype, we envision it to be used to connect people in conferences in settings such as university events, corporate events, and other places where attendees are looking to meet new people in a limited amount of time. We also envision to push this concept out of the confines of conferences and use it to capture physical social connections using virtual social data.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/iop/end_graph.png&quot; style=&quot;width: 500px; max-width:100%; margin: auto; display: block;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Project done with &lt;a href=&quot;http://www.jasrub.com/&quot;&gt;Jasmine Rubonovitz&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/jonathanching&quot;&gt;Jonathan Ching&lt;/a&gt;, &lt;a href=&quot;http://anthonyoccidentale.com/&quot;&gt;Anthony Occidentale&lt;/a&gt;, and &lt;a href=&quot;http://nathanmonroe.com/&quot;&gt;Nathan Monroe&lt;/a&gt;.&lt;/p&gt;</content><category term="work" /><summary type="html">problem</summary></entry><entry><title type="html">Technology and Sociology, a User Experience Analysis</title><link href="http://0.0.0.0:4000/technology-and-sociology" rel="alternate" type="text/html" title="Technology and Sociology, a User Experience Analysis" /><published>2017-02-07T00:00:00-05:00</published><updated>2017-02-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/technology-and-sociology</id><content type="html" xml:base="http://0.0.0.0:4000/technology-and-sociology">&lt;h1 id=&quot;user-user-user&quot;&gt;user, user, user.&lt;/h1&gt;
 
 &lt;p&gt;User experience, user interface, the user. Everyone doing anything these days is always talking about the importance of the user. I think the way we think about designing experiences these days is generally headed in the right direction, delighting users with beautiful and purposeful animations and functions.&lt;/p&gt;
 
