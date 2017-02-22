@@ -17,6 +17,11 @@ permalink: /about/
 I’ve done branding, graphic, product, app, and web design/dev (and academic research before that) but I’m more emotionally invested in applying these skills into solving big problems for different clients, of which design thinking happens to be the best tool to solve them with.
 
 <br>
+
+## design process
+
+I don't strictly follow in any one methodology or process. My process really depends on each project, and also what I learn along the way. However, I generally start with background research that allows myself to develop a level of empathy with each stakeholder involved.
+
 <br>
 
 ## awards
