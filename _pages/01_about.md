@@ -10,7 +10,7 @@ permalink: /about/
 
 ### I'm a design strategist based in Toronto.
 
-### I'm passionate in pushing pixels and bad dad jokes to solve problems for clients.
+### I'm passionate in pushing pixels to solve problems for clients.
 
 ### You can reach me below:
 
