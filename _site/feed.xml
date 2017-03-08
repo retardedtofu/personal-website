@@ -1,5 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-02-22T16:07:21-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">InterFace - An Internet of People</title><link href="http://0.0.0.0:4000/InterFace" rel="alternate" type="text/html" title="InterFace - An Internet of People" /><published>2017-02-16T00:00:00-05:00</published><updated>2017-02-16T00:00:00-05:00</updated><id>http://0.0.0.0:4000/InterFace</id><content type="html" xml:base="http://0.0.0.0:4000/InterFace">&lt;h1 id=&quot;problem&quot;&gt;problem&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-03-08T16:57:12-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Kazoo Rebrand</title><link href="http://0.0.0.0:4000/Kazoo-Rebrand" rel="alternate" type="text/html" title="Kazoo Rebrand" /><published>2017-03-08T00:00:00-05:00</published><updated>2017-03-08T00:00:00-05:00</updated><id>http://0.0.0.0:4000/Kazoo-Rebrand</id><content type="html" xml:base="http://0.0.0.0:4000/Kazoo-Rebrand">&lt;p&gt;The goal was to give Kazoo, which specializes in B2B smart cards, an identity which can co-exist with partner clients. By using a four card-stack as its logo, the purpose of Kazoo’s product is subconsciouslly embedded into users. Furthermore, the colour palette of the card-stack logo is malleable to conform to partner clients’ branding.&lt;/p&gt;
+
+&lt;h1 id=&quot;identity&quot;&gt;identity&lt;/h1&gt;
+
+&lt;div style=&quot;display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%&quot;&gt;
+	&lt;img src=&quot;assets/kazoo/branding1.png&quot; style=&quot;width: 390px;&quot; /&gt;
+	&lt;img src=&quot;assets/kazoo/branding2.png&quot; style=&quot;width: 390px;&quot; /&gt;
+	&lt;img class=&quot;mockup-shadow&quot; src=&quot;assets/kazoo/branding3.png&quot; style=&quot;width: 390px;&quot; /&gt;
+	&lt;img class=&quot;mockup-shadow&quot; src=&quot;assets/kazoo/branding4.png&quot; style=&quot;width: 390px;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;website&quot;&gt;website&lt;/h1&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;
+  &lt;video class=&quot;mockup-shadow&quot; width=&quot;718&quot; height=&quot;510&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
+    &lt;source src=&quot;assets/kazoo/desktop.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    Your browser does not support the video tag.
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%&quot;&gt;
+	&lt;img class=&quot;mockup-shadow&quot; src=&quot;assets/kazoo/iphone1.png&quot; style=&quot;width: 200px;&quot; /&gt;
+	&lt;img class=&quot;mockup-shadow&quot; src=&quot;assets/kazoo/iphone2.png&quot; style=&quot;width: 200px;&quot; /&gt;
+	&lt;img class=&quot;mockup-shadow&quot; src=&quot;assets/kazoo/tablet1.png&quot; style=&quot;width: 350px;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can view the website &lt;a href=&quot;http://www.kazootechnology.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><category term="work" /><summary type="html">The goal was to give Kazoo, which specializes in B2B smart cards, an identity which can co-exist with partner clients. By using a four card-stack as its logo, the purpose of Kazoo’s product is subconsciouslly embedded into users. Furthermore, the colour palette of the card-stack logo is malleable to conform to partner clients’ branding.</summary></entry><entry><title type="html">InterFace - An Internet of People</title><link href="http://0.0.0.0:4000/InterFace" rel="alternate" type="text/html" title="InterFace - An Internet of People" /><published>2017-02-16T00:00:00-05:00</published><updated>2017-02-16T00:00:00-05:00</updated><id>http://0.0.0.0:4000/InterFace</id><content type="html" xml:base="http://0.0.0.0:4000/InterFace">&lt;h1 id=&quot;problem&quot;&gt;problem&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/iop/perceived_barrier.png&quot; alt=&quot;perceived barrier&quot; /&gt;&lt;/p&gt;
 
@@ -265,65 +301,7 @@ insights
 design proposal
  branding
  product
- app</summary></entry><entry><title type="html">Passivated Antireflective Glass</title><link href="http://0.0.0.0:4000/paris" rel="alternate" type="text/html" title="Passivated Antireflective Glass" /><published>2016-01-22T00:00:00-05:00</published><updated>2016-01-22T00:00:00-05:00</updated><id>http://0.0.0.0:4000/paris</id><content type="html" xml:base="http://0.0.0.0:4000/paris">&lt;p&gt;&lt;img src=&quot;assets/paris/banner.jpg&quot; alt=&quot;banner&quot; /&gt;&lt;/p&gt;
-
-&lt;h6 id=&quot;quartz-glassleft-and-nanocoated-glassright&quot;&gt;Quartz Glass(Left) and Nanocoated Glass(Right)&lt;/h6&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-Many traffic accidents occur on an annual basis due to sun glare. Sunglasses and special car windows exist that reduces light reflection, but also reduces light transmittance, which also hinders driver visibility. Apple has innovated on this front by providing antireflective coatings for their iMacs and iPad Airs. The culmination of my studies in nanotechnology engineering while at the University of Waterloo, this project strove to lower conventional antireflective coating cost while vastly improving its physical properties.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;current-solutions&quot;&gt;current solutions&lt;/h1&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;There are currently four methods available to reduce reflection:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/paris/current_solutions.png&quot; alt=&quot;current solutions&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Increasing Light Absorbance - Light transmission is also mitigated&lt;/li&gt;
-  &lt;li&gt;Low Refractive Index - Material properties are compromised&lt;/li&gt;
-  &lt;li&gt;Single/Multi-Layer Interference - Very antireflective, but only for selective index at one incident angle&lt;/li&gt;
-  &lt;li&gt;Gradient Refractive Index - Expensive to deposit incrementally increasing thin film refractive indices&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;our-solution&quot;&gt;our solution&lt;/h1&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/paris/solution.png&quot; alt=&quot;our solution&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;By using a two layer system, namely a mesoporous silica (MPS) top layer followed by a nano-structured substrate, we created an antireflective system using tuneable refractive index and gradient refractive index materials. The MPS refractive index is tuneable with the amount of binder (acts as MPS glue) solution we use and acts as a protective layer, and the sub-visible-wavelength nano-structures offer a gradient refractive index profile due to its cross-sectional area fraction of polymer and MPS. We thus get optical properties that resonate between a gradient refractive index (broadband and wide angle antireflection) and a single layer interference material (wavelength selective antireflection).&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;design-process&quot;&gt;design process&lt;/h1&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/paris/design_process.png&quot; alt=&quot;design process&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;results&quot;&gt;results&lt;/h1&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/paris/results.png&quot; alt=&quot;results&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;NOA61 (Norland Optical Adhesive) is a propietary UV curable polymer which was utilized in our lab, explaining the low transmission towards the violet region.&lt;/p&gt;
-
-&lt;p&gt;It can be seen that combining nanostructures and MPS makes it transmit light better than using either, and much better than typical glass. Later studies were conducted with the Denmark Technical University to make multi-angular reflection and transmission tests, as well as better samples, but remain propeitary.&lt;/p&gt;
-
-&lt;p&gt;Project done with &lt;a href=&quot;mcleung.com&quot;&gt;Michael Leung&lt;/a&gt;, Ben Greenlay, Matthew Haines, and George Baxter.&lt;/p&gt;</content><category term="work" /><summary type="html"></summary></entry><entry><title type="html">Rebranding Vibram for China</title><link href="http://0.0.0.0:4000/vibram" rel="alternate" type="text/html" title="Rebranding Vibram for China" /><published>2015-12-20T00:00:00-05:00</published><updated>2015-12-20T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vibram</id><content type="html" xml:base="http://0.0.0.0:4000/vibram">&lt;h1 id=&quot;task&quot;&gt;task&lt;/h1&gt;
+ app</summary></entry><entry><title type="html">Rebranding Vibram for China</title><link href="http://0.0.0.0:4000/vibram" rel="alternate" type="text/html" title="Rebranding Vibram for China" /><published>2015-12-20T00:00:00-05:00</published><updated>2015-12-20T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vibram</id><content type="html" xml:base="http://0.0.0.0:4000/vibram">&lt;h1 id=&quot;task&quot;&gt;task&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/vibram/task1.jpg&quot; alt=&quot;task 1&quot; /&gt;&lt;img src=&quot;assets/vibram/task2.jpg&quot; alt=&quot;task 2&quot; /&gt;&lt;/p&gt;
 
@@ -516,4 +494,62 @@ After an analysis of each potential client, we realized that hotels offer a few 
 
 &lt;h3 id=&quot;3-mutual-value-addition&quot;&gt;3. mutual value addition&lt;/h3&gt;
 
-&lt;p&gt;Online booking agencies such as Agoda and Tripadvisor have been marketing green hotels more and more. Having HKR provide the transparency and data needed to achieve these goals could improve hotel sales by meeting various agencies’ &lt;em&gt;green&lt;/em&gt; criteria.&lt;/p&gt;</content><category term="work" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;Online booking agencies such as Agoda and Tripadvisor have been marketing green hotels more and more. Having HKR provide the transparency and data needed to achieve these goals could improve hotel sales by meeting various agencies’ &lt;em&gt;green&lt;/em&gt; criteria.&lt;/p&gt;</content><category term="work" /><summary type="html"></summary></entry><entry><title type="html">Passivated Antireflective Glass</title><link href="http://0.0.0.0:4000/paris" rel="alternate" type="text/html" title="Passivated Antireflective Glass" /><published>2015-01-22T00:00:00-05:00</published><updated>2015-01-22T00:00:00-05:00</updated><id>http://0.0.0.0:4000/paris</id><content type="html" xml:base="http://0.0.0.0:4000/paris">&lt;p&gt;&lt;img src=&quot;assets/paris/banner.jpg&quot; alt=&quot;banner&quot; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;quartz-glassleft-and-nanocoated-glassright&quot;&gt;Quartz Glass(Left) and Nanocoated Glass(Right)&lt;/h6&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+Many traffic accidents occur on an annual basis due to sun glare. Sunglasses and special car windows exist that reduces light reflection, but also reduces light transmittance, which also hinders driver visibility. Apple has innovated on this front by providing antireflective coatings for their iMacs and iPad Airs. The culmination of my studies in nanotechnology engineering while at the University of Waterloo, this project strove to lower conventional antireflective coating cost while vastly improving its physical properties.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;current-solutions&quot;&gt;current solutions&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are currently four methods available to reduce reflection:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/paris/current_solutions.png&quot; alt=&quot;current solutions&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Increasing Light Absorbance - Light transmission is also mitigated&lt;/li&gt;
+  &lt;li&gt;Low Refractive Index - Material properties are compromised&lt;/li&gt;
+  &lt;li&gt;Single/Multi-Layer Interference - Very antireflective, but only for selective index at one incident angle&lt;/li&gt;
+  &lt;li&gt;Gradient Refractive Index - Expensive to deposit incrementally increasing thin film refractive indices&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;our-solution&quot;&gt;our solution&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/paris/solution.png&quot; alt=&quot;our solution&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By using a two layer system, namely a mesoporous silica (MPS) top layer followed by a nano-structured substrate, we created an antireflective system using tuneable refractive index and gradient refractive index materials. The MPS refractive index is tuneable with the amount of binder (acts as MPS glue) solution we use and acts as a protective layer, and the sub-visible-wavelength nano-structures offer a gradient refractive index profile due to its cross-sectional area fraction of polymer and MPS. We thus get optical properties that resonate between a gradient refractive index (broadband and wide angle antireflection) and a single layer interference material (wavelength selective antireflection).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;design-process&quot;&gt;design process&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/paris/design_process.png&quot; alt=&quot;design process&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;results&quot;&gt;results&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/paris/results.png&quot; alt=&quot;results&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;NOA61 (Norland Optical Adhesive) is a propietary UV curable polymer which was utilized in our lab, explaining the low transmission towards the violet region.&lt;/p&gt;
+
+&lt;p&gt;It can be seen that combining nanostructures and MPS makes it transmit light better than using either, and much better than typical glass. Later studies were conducted with the Denmark Technical University to make multi-angular reflection and transmission tests, as well as better samples, but remain propeitary.&lt;/p&gt;
+
+&lt;p&gt;Project done with &lt;a href=&quot;mcleung.com&quot;&gt;Michael Leung&lt;/a&gt;, Ben Greenlay, Matthew Haines, and George Baxter.&lt;/p&gt;</content><category term="work" /><summary type="html"></summary></entry></feed>

@@ -40,7 +40,7 @@ stroke_out_url: "/assets/social_media/stroke_out.svg"
 stroke_in_url: "/assets/social_media/stroke_in.svg"
 
 # Pagination Details
-paginate: 4
+paginate: 6
 paginate_path: "/page:num/"
 
 # Build Settings
