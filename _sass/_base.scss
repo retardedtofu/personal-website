@@ -1,5 +1,6 @@
 /* Main Content Sizes and Colours */
 $content-width: 800px;
+$article-width: 600px;
 $max-content-width-gap: 30px;
 $max-content-width: calc(100% - 60px);
 $main-color-dark: #464646; // Pantone 
@@ -8,8 +9,9 @@ $main-color-medium: #818387;
 $main: $main-color-dark;
 
 /* Font Variables */
-$font-style: 'Lato', serif;
-$font-text: 'Lato', serif;
+$font-style: 'freight-sans-pro', sans-serif;
+$font-text: 'freight-sans-pro', sans-serif;
+
 $font-color: $main-color-dark;
 $link-color: $main-color-medium;
 $link-hover-color: $main-color-medium;

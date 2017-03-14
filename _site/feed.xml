@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-03-08T17:18:18-05:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-03-14T18:52:30-04:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Kazoo Rebrand</title><link href="http://0.0.0.0:4000/Kazoo-Rebrand" rel="alternate" type="text/html" title="Kazoo Rebrand" /><published>2017-03-08T00:00:00-05:00</published><updated>2017-03-08T00:00:00-05:00</updated><id>http://0.0.0.0:4000/Kazoo-Rebrand</id><content type="html" xml:base="http://0.0.0.0:4000/Kazoo-Rebrand">&lt;p&gt;The goal was to give Kazoo, which specializes in B2B smart cards, an identity which can co-exist with partner clients. By using a four card-stack as its logo, the purpose of Kazoo’s product is subconsciouslly embedded into users. Furthermore, the colour palette of the card-stack logo is malleable to conform to partner clients’ branding.&lt;/p&gt;
 
 &lt;h1 id=&quot;identity&quot;&gt;identity&lt;/h1&gt;
@@ -41,9 +41,9 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our civilisations have evolved over time but we have retained ancient cognitive traits that are arguably unuseful in today’s society. In particular, we still retain the perceived barrier and hesitance to meeting new people and forging new meaningful relationships. Our team strove to shatter this barrier using the 2016 MIT Kickstart Hackathon in Hong Kong as an opportunity, where we became the winning team. Furthermore:&lt;/p&gt;
+&lt;p&gt;Our civilisations have evolved over time but we have retained ancient cognitive traits that are arguably unuseful in today’s society. In particular, we still retain the perceived barrier and hesitance to meeting new people and forging new meaningful relationships. Our team strove to shatter this barrier using the 2016 MIT Kickstart Hackathon in Hong Kong as an opportunity, where we became the winning team.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Furthermore:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;We are time starved&lt;/li&gt;
@@ -55,8 +55,6 @@
 
 &lt;p&gt;We took a look at existing settings where connections were encouraged and was the main value proposition for being there. With my team’s connections to academic and startup institutions, &lt;em&gt;conferences&lt;/em&gt; were concluded to be a fertile ground for development, because of:&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;ol&gt;
   &lt;li&gt;Time criticality in conferences&lt;/li&gt;
   &lt;li&gt;People meet the wrong people&lt;/li&gt;
@@ -65,6 +63,8 @@
 
 &lt;h1 id=&quot;solution---interface&quot;&gt;solution - InterFace&lt;/h1&gt;
 
+&lt;p&gt;The idea is to have a lanyard with your preferences and profile loaded from your conference signup form you had to do anyway. The lanyard that will be worn by conference goers has tactile feedback on the neck and a visual cue that blinks at the same frequency and colour as another person nearby provided you both have sufficiently overlapping interests.&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/iop/interface_logo.png&quot; style=&quot;width: 250px; max-width:100%; margin: auto; display: block;&quot; /&gt;&lt;/p&gt;
@@ -72,10 +72,6 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/iop/lanyard.jpg&quot; style=&quot;width: 500px; max-width:100%; margin: auto; display: block;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The idea is to have a lanyard with your preferences and profile loaded from your conference signup form you had to do anyway. The lanyard that will be worn by conference goers has tactile feedback on the neck and a visual cue that blinks at the same frequency and colour as another person nearby provided you both have sufficiently overlapping interests.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -96,7 +92,15 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Project done with &lt;a href=&quot;http://www.jasrub.com/&quot;&gt;Jasmine Rubonovitz&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/jonathanching&quot;&gt;Jonathan Ching&lt;/a&gt;, &lt;a href=&quot;http://anthonyoccidentale.com/&quot;&gt;Anthony Occidentale&lt;/a&gt;, and &lt;a href=&quot;http://nathanmonroe.com/&quot;&gt;Nathan Monroe&lt;/a&gt;.&lt;/p&gt;</content><category term="work" /><summary type="html">problem</summary></entry><entry><title type="html">Technology and Sociology, a User Experience Analysis</title><link href="http://0.0.0.0:4000/technology-and-sociology" rel="alternate" type="text/html" title="Technology and Sociology, a User Experience Analysis" /><published>2017-02-07T00:00:00-05:00</published><updated>2017-02-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/technology-and-sociology</id><content type="html" xml:base="http://0.0.0.0:4000/technology-and-sociology">&lt;h1 id=&quot;user-user-user&quot;&gt;user, user, user.&lt;/h1&gt;
+&lt;p&gt;Project done with&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jasrub.com/&quot;&gt;Jasmine Rubonovitz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/jonathanching&quot;&gt;Jonathan Ching&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://anthonyoccidentale.com/&quot;&gt;Anthony Occidentale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://nathanmonroe.com/&quot;&gt;Nathan Monroe&lt;/a&gt;&lt;/p&gt;</content><category term="work" /><summary type="html">problem</summary></entry><entry><title type="html">Technology and Sociology, a User Experience Analysis</title><link href="http://0.0.0.0:4000/technology-and-sociology" rel="alternate" type="text/html" title="Technology and Sociology, a User Experience Analysis" /><published>2017-02-07T00:00:00-05:00</published><updated>2017-02-07T00:00:00-05:00</updated><id>http://0.0.0.0:4000/technology-and-sociology</id><content type="html" xml:base="http://0.0.0.0:4000/technology-and-sociology">&lt;h1 id=&quot;user-user-user&quot;&gt;user, user, user.&lt;/h1&gt;
 
 &lt;p&gt;User experience, user interface, the user. Everyone doing anything these days is always talking about the importance of the user. I think the way we think about designing experiences these days is generally headed in the right direction, delighting users with beautiful and purposeful animations and functions.&lt;/p&gt;
 
@@ -106,51 +110,31 @@
 
 &lt;p&gt;So it seems like there is a tug-of-war between the physical and the virtual realm to grab our attention, but in what way can technology marry physical and virtual experiences together to create something positive that neither can do without the other?&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h1 id=&quot;design-models-for-perspective&quot;&gt;design models for perspective&lt;/h1&gt;
 
-&lt;p&gt;&lt;br /&gt;
-To help answer the question above, I designed several models that could help put things into perspective.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;To help answer the question above, I designed several models that could help put things into perspective:&lt;/p&gt;
 
 &lt;h2 id=&quot;1-a-network-of-users&quot;&gt;1. a network of users&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;assets/thesis/ux-1.png&quot; style=&quot;width: 400px; max-width: 100%&quot; /&gt;&lt;img src=&quot;assets/thesis/ux-2.png&quot; style=&quot;width: 400px; max-width: 100%&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/thesis/ux-1.png&quot; style=&quot;width: 300px; max-width: 100%&quot; /&gt;&lt;img src=&quot;assets/thesis/ux-2.png&quot; style=&quot;width: 300px; max-width: 100%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We often like to think of how to create a better &lt;strong&gt;&lt;em&gt;user&lt;/em&gt;&lt;/strong&gt; experience, but how about creating a better experience for &lt;strong&gt;&lt;em&gt;users&lt;/em&gt;&lt;/strong&gt;? Whether we like it or not, we are networked and social animals, and experiences flow through this network rather than a singular product influencing one person one at a time.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;2-technologies-that-have-transformed-social-paradigms&quot;&gt;2. technologies that have transformed social paradigms&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img src=&quot;assets/thesis/history-of-social-tech.png&quot; alt=&quot;social tech history&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The advantages of owning a smartphone is undisputed; the intuitive interface, access to desktop-class applications, the unique apps that live within the mobile space, and the ease of use, the list goes on and on. But as a mobile platform that has almost all the functionalities that traditional desktops used to offer, this can be an intrusive piece of tech to our lives. An argument can be made (which I did earlier) that all of the aforementioned tech advancements in the figure above negatively impact the intrusion on our tangible physical lives, but smartphones are an especially special exception as it can emulate and act as a surrogate for social experiences in a manner that all the others could not due to its high mobility, relatively high computing power, among other factors.&lt;/p&gt;
 
 &lt;p&gt;It is difficult to blame the average person for using smartphones all the time in socially intrusive settings. It has its many benefits which is why we use it in the first place. But what is the line between how much we should tolerate intrusion-causing technology and how much should we focus on our moments based in physical reality? I feel like this is why the concept of &lt;strong&gt;&lt;em&gt;user experience design&lt;/em&gt;&lt;/strong&gt; is shallow sometimes as it tends to focus on the direct relationship between a person and its device without consideration for the user and its environment…&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;3-a-framework-for-experiential-innovation&quot;&gt;3. a framework for experiential innovation&lt;/h2&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/thesis/mitigation-model.png&quot; alt=&quot;mitigation model&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;p&gt;So, the virtual and physical world have both its benefits, and its pitfalls in a social context. But when designing a product/service, I believe you can mitigate or even eliminate the negatives of both sides using the positives of the other in certain situations if designed well.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;3a-dating-industry&quot;&gt;3a. Dating Industry&lt;/h3&gt;
 
@@ -158,13 +142,11 @@ To help answer the question above, I designed several models that could help put
 
 &lt;p&gt;I think that there exists a way to lower this social barrier using an indicator that sends subtle notifications that the person next to you is interesting relative to your interests and personality. Of course, this idea would be extremely hard to scale to something like Tinder, but I could see it working when implemented in controlled environments where meeting people is the point and time is valuable. I collaborated with a bunch of people from MIT and HKU in the MIT Kickstart Hackathon to design a concept similar to this which I’ll write about in my next post.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;3b-augmented-reality-and-social-gaming&quot;&gt;3b. Augmented Reality and Social Gaming&lt;/h3&gt;
 
 &lt;p&gt;Last summer, we witnessed the viral explosion of Pokémon Go. It was interesting to see especially in Hong Kong, so many people walking outside and playing this game en masse (pretty much the entire city, even my 60 year old aunt played it) together. To combine a well known brand everyone adores and use it to augment our physical surrounding to get other people to explore more, and to witness introverted and disabled people who would otherwise be stuck in their homes to come out and play it with their families and interact with others over a shared passion is something well worth applauding. The execution was questionable as the interface was simple, buggy, and it arguably got more people stuck on their phones, but for the first time have we witnessed so much excitement for this concept.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;tldr&quot;&gt;tldr&lt;/h1&gt;
 
@@ -175,19 +157,19 @@ To help answer the question above, I designed several models that could help put
 &lt;a href=&quot;#product&quot;&gt; product&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;#app&quot;&gt; app&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;
-I’ve always found the Internet of Things to be an interesting area when it comes to thinking about what problems should be solved first. Although it has been closely associated within the realm of what is possible in technology, I feel like much of the proliferation in IoT development lack the essence of a deeper understanding of what is/isn’t important for consumers. I attempted to address this problem with my last client, Somfy, a company that is uniquely focused on B2B motorised blinds. Provided below are some of the approaches I used to solve Somfy’s problems, as well as getting a deeper insight into IoT.&lt;/p&gt;
+&lt;p&gt;I’ve always found the Internet of Things to be an interesting area when it comes to thinking about what problems should be solved first. Although it has been closely associated within the realm of what is possible in technology, I feel like much of the proliferation in IoT development lack the essence of a deeper understanding of what is/isn’t important for consumers. I attempted to address this problem with my last client, Somfy, a company that is uniquely focused on B2B motorized blinds. Provided below are some of the approaches I used to solve Somfy’s problems, as well as getting a deeper insight into IoT.&lt;/p&gt;
 
 &lt;h1 id=&quot;approach&quot;&gt;&lt;a name=&quot;approach&quot;&gt;&lt;/a&gt;approach&lt;/h1&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/somfy/chain.png&quot; alt=&quot;psychophysical flow&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/somfy/chain.png&quot; alt=&quot;psychophysical flow&quot; /&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;psychophysical-flow&quot;&gt;psychophysical flow&lt;/h6&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/somfy/cognition_ecosystem.png&quot; alt=&quot;cognition - mental processes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/somfy/cognition_ecosystem.png&quot; alt=&quot;cognition - mental processes&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;cognition-and-tech-ecosystem&quot;&gt;cognition and tech ecosystem&lt;/h4&gt;
 
@@ -195,16 +177,15 @@ I’ve always found the Internet of Things to be an interesting area when it com
 
 &lt;h6 id=&quot;--another-one-was-done-for-senses-but-i-think-one-giant-circle-is-enough-&quot;&gt;    another one was done for senses but I think one giant circle is enough :)&lt;/h6&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-With the rising popularity of IoT for home consumers, Somfy needed to transition itself to have more B2C presence. To give context to this problem, my brief as Somfy’s consultant was to create unique life moments with a system of connected products.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;With the rising popularity of IoT for home consumers, Somfy needed to transition itself to have more B2C presence. To give context to this problem, my brief as Somfy’s consultant was to create unique life moments with a system of connected products.&lt;/p&gt;
 
 &lt;p&gt;Before thinking about IoT in the home, I thought about what the technology fundamentally meant. They are part of the tech ecosystem, but in a grander scale they’re part of the home ecosystem. It’s a simple thought but a profound one when thinking about the scope of what hasn’t been done via tech. Freeing myself from the confine of what’s not possible in tech and rather thinking about all the different things we do at home that aren’t “techy” gave me more perspective.&lt;/p&gt;
 
-&lt;p&gt;I also realised that there was a psychophysical flow that links the home product ecosystem to the moments experienced at home. Shown below is a mapping of of how various products at home affect both cognition and senses and the layers that go in between them.&lt;/p&gt;
+&lt;p&gt;I also realised that there was a psychophysical flow that links the home product ecosystem to the moments experienced at home. Shown below is a mapping of of how various products at home affect both cognition and senses and the layers that go in between them. More specificity was needed in order to know what unique life moments really meant at home.&lt;/p&gt;
 
-&lt;p&gt;More specificity was needed in order to know what unique life moments really meant at home.&lt;/p&gt;
-
-&lt;p&gt;The implication of the brief was quite broad, and contextualization was needed. The project was broken down into three phases: research, &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S2405872615300241&quot;&gt;frame creation&lt;/a&gt;, then ideation+solution.&lt;/p&gt;
+&lt;p&gt;Because, the implication of the brief was quite broad, and contextualization was needed, the project was broken down into three phases: research, &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S2405872615300241&quot;&gt;frame creation&lt;/a&gt;, then ideation+solution.&lt;/p&gt;
 
 &lt;h1 id=&quot;insights&quot;&gt;&lt;a name=&quot;insights&quot;&gt;&lt;/a&gt;insights&lt;/h1&gt;
 
@@ -217,21 +198,17 @@ With the rising popularity of IoT for home consumers, Somfy needed to transition
   &lt;li&gt;Ambience is a key ingredient into the constitution of a person’s feeling of relaxation, as it enhances their sensory and mental processes.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;tldr-how-can-somfy-develop-a-product-ecosystem-that-enhances-moments-but-not-divide-it&quot;&gt;TL;DR How can Somfy develop a product ecosystem that enhances moments but not divide it?&lt;/h3&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;design-proposal&quot;&gt;&lt;a name=&quot;design-proposal&quot;&gt;&lt;/a&gt;design proposal&lt;/h1&gt;
 
 &lt;h2 id=&quot;branding&quot;&gt;&lt;a name=&quot;branding&quot;&gt;&lt;/a&gt;branding&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/somfy/branding.png&quot; alt=&quot;branding&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/somfy/branding.png&quot; alt=&quot;branding&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-The branding of Somfy’s new products should firstly be friendly and approachable, while at the same time represent a clear extension of Somfy’s existing main brand. It also needs to express the product being something that expresses its involvement in the IoT space and that it enhances moments.&lt;/p&gt;
+&lt;p&gt;The branding of Somfy’s new products should firstly be friendly and approachable, while at the same time represent a clear extension of Somfy’s existing main brand. It also needs to express the product being something that expresses its involvement in the IoT space and that it enhances moments.&lt;/p&gt;
 
 &lt;p&gt;It was in this light that the product solution was coined “Presense”, a portmanteau of ‘Pre’ and ‘Sensing’, as well as functioning as a homonym of presence, alluding to that the product will always be there to aid you.&lt;/p&gt;
 
@@ -241,19 +218,19 @@ The branding of Somfy’s new products should firstly be friendly and approachab
 
 &lt;h2 id=&quot;product&quot;&gt;&lt;a name=&quot;product&quot;&gt;&lt;/a&gt;product&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/somfy/presense_features.png&quot; alt=&quot;presense features&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/somfy/presense_features.png&quot; alt=&quot;presense features&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/somfy/presense_system.png&quot; alt=&quot;presense system&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/somfy/presense_system.png&quot; alt=&quot;presense system&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;presense-system&quot;&gt;Presense system&lt;/h5&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-The system solution of the product revolves around the concept of having someone “always there” to adjust your ambience, instead of needing you to change it yourself. Machine learning was incorporated so that user behaviour and preferences can be learned and Somfy Presense will adjust accordingly in the future, cross-correlating this information with external data such as weather, geographical location, and sensor inputs.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/somfy/tangible_ui.jpg&quot; alt=&quot;tangible user interface&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The system solution of the product revolves around the concept of having someone “always there” to adjust your ambience, instead of needing you to change it yourself. Machine learning was incorporated so that user behaviour and preferences can be learned and Somfy Presense will adjust accordingly in the future, cross-correlating this information with external data such as weather, geographical location, and sensor inputs.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/somfy/tangible_ui.jpg&quot; alt=&quot;tangible user interface&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;tui--hub&quot;&gt;TUI + Hub&lt;/h5&gt;
 
@@ -261,18 +238,18 @@ The system solution of the product revolves around the concept of having someone
 
 &lt;h5 id=&quot;tui-removed&quot;&gt;TUI removed&lt;/h5&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;A central hub (also a tangible user interface) acts as the learner of user behaviour and processes it all locally within itself, without giving any of this data away to third party vendors, even to Somfy’s servers.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/somfy/blinds.jpg&quot; alt=&quot;blinds&quot; /&gt;&lt;img src=&quot;assets/somfy/lights.jpg&quot; alt=&quot;lights&quot; /&gt;&lt;img src=&quot;assets/somfy/plugs.jpg&quot; alt=&quot;plugs&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&quot;200&quot; src=&quot;assets/somfy/blinds.jpg&quot; /&gt;&lt;img width=&quot;200&quot; src=&quot;assets/somfy/lights.jpg&quot; /&gt;&lt;img width=&quot;200&quot; src=&quot;assets/somfy/plugs.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;additional-packaged-accessories-motorized-blinds-motorized-lights-and-smart-plugs&quot;&gt;additional packaged accessories (motorized blinds, motorized lights, and smart plugs)&lt;/h5&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;app&quot;&gt;&lt;a name=&quot;app&quot;&gt;&lt;/a&gt;app&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/somfy/1_login_setup.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -280,7 +257,6 @@ The system solution of the product revolves around the concept of having someone
   &lt;/video&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/somfy/2_setup_hue.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -288,7 +264,6 @@ The system solution of the product revolves around the concept of having someone
   &lt;/video&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/somfy/3_moments.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -303,19 +278,19 @@ design proposal
  product
  app</summary></entry><entry><title type="html">Rebranding Vibram for China</title><link href="http://0.0.0.0:4000/vibram" rel="alternate" type="text/html" title="Rebranding Vibram for China" /><published>2015-12-20T00:00:00-05:00</published><updated>2015-12-20T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vibram</id><content type="html" xml:base="http://0.0.0.0:4000/vibram">&lt;h1 id=&quot;task&quot;&gt;task&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/vibram/task1.jpg&quot; alt=&quot;task 1&quot; /&gt;&lt;img src=&quot;assets/vibram/task2.jpg&quot; alt=&quot;task 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;300&quot; src=&quot;assets/vibram/task1.jpg&quot; /&gt;&lt;img width=&quot;300&quot; src=&quot;assets/vibram/task2.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;what&quot;&gt;what&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/vibram/what1.jpg&quot; alt=&quot;what is vibram - core&quot; /&gt;&lt;img src=&quot;assets/vibram/what2.jpg&quot; alt=&quot;what is vibram - secondary&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;300&quot; src=&quot;assets/vibram/what1.jpg&quot; /&gt;&lt;img width=&quot;300&quot; src=&quot;assets/vibram/what2.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;design-method&quot;&gt;design method&lt;/h1&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;img src=&quot;assets/vibram/method.png&quot; alt=&quot;design method&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;key-insights&quot;&gt;key insights&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;assets/vibram/insight1.jpg&quot; alt=&quot;insight - brand&quot; /&gt;&lt;img src=&quot;assets/vibram/insight2.jpg&quot; alt=&quot;insight - outdoor perception&quot; /&gt;
-&lt;img src=&quot;assets/vibram/insight3.jpg&quot; alt=&quot;insight - brand perception&quot; /&gt;&lt;img src=&quot;assets/vibram/insight4.jpg&quot; alt=&quot;insight - chinese lifestyle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&quot;300&quot; src=&quot;assets/vibram/insight1.jpg&quot; /&gt;&lt;img width=&quot;300&quot; src=&quot;assets/vibram/insight2.jpg&quot; /&gt;&lt;img width=&quot;300&quot; src=&quot;assets/vibram/insight3.jpg&quot; /&gt;&lt;img width=&quot;300&quot; src=&quot;assets/vibram/insight4.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;vibrams-redefined-values&quot;&gt;Vibram’s redefined values&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;assets/vibram/translated-values.png&quot; alt=&quot;translated values&quot; /&gt;&lt;/p&gt;
@@ -325,12 +300,10 @@ design proposal
 &lt;h1 id=&quot;design-proposal&quot;&gt;design proposal&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;assets/vibram/design-objectives.png&quot; alt=&quot;design objectives&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Vibram as a brand is not widely known in China, thus it would be important to establish a brand presence that clearly communicates its values. Secondly, although the brand is not widely known, Vibram’s secondary products such as its FiveFingers shoes have high recognisability as a product itself due to its novelty. If some novelty factor were to be incorporated in promoting Vibram’s main product of rubber soles without changing the product itself, its product knowledge can be increased. The design solutions focused on these two objectives while keeping objectives 3 and 4 in mind.
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Vibram as a brand is not widely known in China, thus it would be important to establish a brand presence that clearly communicates its values. Secondly, although the brand is not widely known, Vibram’s secondary products such as its FiveFingers shoes have high recognisability as a product itself due to its novelty. If some novelty factor were to be incorporated in promoting Vibram’s main product of rubber soles without changing the product itself, its product knowledge can be increased. The design solutions focused on these two objectives while keeping objectives 3 and 4 in mind.&lt;/p&gt;
 
 &lt;h2 id=&quot;vdiscover-app&quot;&gt;vdiscover app&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/vibram/app1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -339,7 +312,6 @@ design proposal
 &lt;/div&gt;
 &lt;div style=&quot;text-align:center&quot;&gt;&lt;h5&gt;active route planner&lt;/h5&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/vibram/app2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -347,10 +319,12 @@ design proposal
   &lt;/video&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-The first component of the app is a route planner that calculates alternative routes on top of the quickest one. This allows to explore more of their immediate surroundings, getting them literally outdoors more. Also included are Vibram recommended urban landmarks that users can see and explore, and Vibram events that are happening nearby.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The first component of the app is a route planner that calculates alternative routes on top of the quickest one. This allows to explore more of their immediate surroundings, getting them literally outdoors more. Also included are Vibram recommended urban landmarks that users can see and explore, and Vibram events that are happening nearby.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;250&quot; height=&quot;415&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/vibram/app3.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -359,41 +333,39 @@ The first component of the app is a route planner that calculates alternative ro
 &lt;/div&gt;
 &lt;div style=&quot;text-align:center&quot;&gt;&lt;h5&gt;meet and find active friends&lt;/h5&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-The second component of the app allows users to meet each other and explore activities. The radio button allows users to broadcast their location to friends, and approximate location to people who have similar fitness habits, hobbies, and interests, and connect with each other.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second component of the app allows users to meet each other and explore activities. The radio button allows users to broadcast their location to friends, and approximate location to people who have similar fitness habits, hobbies, and interests, and connect with each other.&lt;/p&gt;
 
 &lt;p&gt;Ultimately vdiscover tries to establish brand knowledge for Vibram by indirectly pushing its users to walk, explore, and connect more, aligning it with the company’s proposed values and vision of “urban outdoors” and communal well-being.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;marketing-signage&quot;&gt;marketing signage&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;img src=&quot;assets/vibram/signage0.jpg&quot; alt=&quot;signage 0&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/vibram/signage0.jpg&quot; alt=&quot;signage 0&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/vibram/signage1.jpg&quot; alt=&quot;signage 1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/vibram/signage2.jpg&quot; alt=&quot;signage 2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/vibram/signage3.jpg&quot; alt=&quot;signage 3&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/vibram/signage3.jpg&quot; alt=&quot;signage 3&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On top of the app, marketing signage similar to traditional advertisement campaigns were designed to establish product, brand, as well as app knowledge. The wet caution signs indirectly informs passerbys that Vibram has excellent grip from its rubber soles, while the other signage tries to nudge people to take a route less travelled as well as to promote the vdiscover app.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;product-placement&quot;&gt;product placement&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/vibram/product1.jpg&quot; alt=&quot;product 1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/vibram/product1.jpg&quot; alt=&quot;product 1&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;old-and-new-product-visibility&quot;&gt;old and new product visibility&lt;/h5&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/vibram/product2.jpg&quot; alt=&quot;product 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/vibram/product2.jpg&quot; alt=&quot;product 2&quot; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;new-product-signage&quot;&gt;new product signage&lt;/h5&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-The tags attempt to enhance Vibram’s product visibility, as well as provide redeemable reward schemes and promote vdiscover.&lt;/p&gt;</content><category term="work" /><summary type="html">task</summary></entry><entry><title type="html">Hong Kong Recycles</title><link href="http://0.0.0.0:4000/hong-kong-recycles" rel="alternate" type="text/html" title="Hong Kong Recycles" /><published>2015-10-30T01:00:00-04:00</published><updated>2015-10-30T01:00:00-04:00</updated><id>http://0.0.0.0:4000/hong-kong-recycles</id><content type="html" xml:base="http://0.0.0.0:4000/hong-kong-recycles">&lt;p&gt;&lt;img src=&quot;assets/hkr/banner2.png&quot; alt=&quot;main image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The tags attempt to enhance Vibram’s product visibility, as well as provide redeemable reward schemes and promote vdiscover.&lt;/p&gt;</content><category term="work" /><summary type="html">task</summary></entry><entry><title type="html">Hong Kong Recycles</title><link href="http://0.0.0.0:4000/hong-kong-recycles" rel="alternate" type="text/html" title="Hong Kong Recycles" /><published>2015-10-30T01:00:00-04:00</published><updated>2015-10-30T01:00:00-04:00</updated><id>http://0.0.0.0:4000/hong-kong-recycles</id><content type="html" xml:base="http://0.0.0.0:4000/hong-kong-recycles">&lt;p&gt;&lt;img src=&quot;assets/hkr/banner2.png&quot; alt=&quot;main image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This project will always be remain in my mind, as it was my first client project and also the first project that popped my design cherry ;), transitioning from what was an academic research path into a more creative one.&lt;/p&gt;
 
@@ -409,13 +381,10 @@ The tags attempt to enhance Vibram’s product visibility, as well as provide re
 
 &lt;p&gt;I thought about the logistics system redesign from short and long term perspectives, whereby the short-term solutions can be implemented with very little capital and have an immediate positive impact on the company, opposed to the long-term solution which would require more capital.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;data-recording-app&quot;&gt;data recording app&lt;/h2&gt;
 
 &lt;h4 id=&quot;short-term-implementation&quot;&gt;short term implementation&lt;/h4&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;500&quot; height=&quot;375&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/hkr/app1.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -423,7 +392,6 @@ The tags attempt to enhance Vibram’s product visibility, as well as provide re
   &lt;/video&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;500&quot; height=&quot;375&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/hkr/app2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -431,7 +399,6 @@ The tags attempt to enhance Vibram’s product visibility, as well as provide re
   &lt;/video&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;video-container&quot;&gt;
   &lt;video width=&quot;500&quot; height=&quot;375&quot; autoplay=&quot;&quot; playsinline=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot;&gt;
     &lt;source src=&quot;assets/hkr/app3.mp4&quot; type=&quot;video/mp4&quot; /&gt;
@@ -439,46 +406,39 @@ The tags attempt to enhance Vibram’s product visibility, as well as provide re
   &lt;/video&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-HKR’s current method (as of the posting date of this article) of inputting data from their recycling boxes requires the collection-personnel to personally record its box-id, weight, type, and date on pen and paper, which is then re-entered on a spreadsheet electronically. I wrote a simple app in Objective-C which completely eliminates this method by using the phone’s camera to scan the box’s newly implemented QR code, and typing in the weight and selecting the recycling type from a drop-down list. The information is then emailed to HKR’s back-office and can be copy-pasted into a spreadsheet and automatically parsed. Once a database has been developed, the app can be modified to send it directly there instead of an email.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;HKR’s current method (as of the posting date of this article) of inputting data from their recycling boxes requires the collection-personnel to personally record its box-id, weight, type, and date on pen and paper, which is then re-entered on a spreadsheet electronically. I wrote a simple app in Objective-C which completely eliminates this method by using the phone’s camera to scan the box’s newly implemented QR code, and typing in the weight and selecting the recycling type from a drop-down list. The information is then emailed to HKR’s back-office and can be copy-pasted into a spreadsheet and automatically parsed. Once a database has been developed, the app can be modified to send it directly there instead of an email.&lt;/p&gt;
 
 &lt;h2 id=&quot;box-redesign&quot;&gt;box redesign&lt;/h2&gt;
 
 &lt;h4 id=&quot;medium-to-long-term-implementation&quot;&gt;medium-to-long term implementation&lt;/h4&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/hkr/bin.png&quot; alt=&quot;box redesign&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/hkr/bin.png&quot; alt=&quot;box redesign&quot; /&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;box-redesign-1&quot;&gt;box redesign&lt;/h6&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-The original box used cardboard and a plastic bag that could be used only once. This was then reconceptualized into a more sturdy corrugated plastic box design that could be reused several times before it itself needed to be recycled in order to save capital.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The original box used cardboard and a plastic bag that could be used only once. This was then reconceptualized into a more sturdy corrugated plastic box design that could be reused several times before it itself needed to be recycled in order to save capital.&lt;/p&gt;
 
 &lt;h2 id=&quot;business-redesign&quot;&gt;business redesign&lt;/h2&gt;
 
 &lt;h4 id=&quot;medium-to-long-term-implementation-1&quot;&gt;medium-to-long term implementation&lt;/h4&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;assets/hkr/clients.png&quot; alt=&quot;potential client list&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/hkr/clients.png&quot; alt=&quot;potential client list&quot; /&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;client-possibilities&quot;&gt;client possibilities&lt;/h6&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-HKR’s current clientele are limited to residential and corporate offices where recycling accountability and data can be important for their corporate sustainability image. We sought to find a way to improve the company’s cashflow with minimal effort by first looking at every other potential client sector possible in Hong Kong where value exchange is mutual.&lt;/p&gt;
+&lt;p&gt;HKR’s current clientele are limited to residential and corporate offices where recycling accountability and data can be important for their corporate sustainability image. We sought to find a way to improve the company’s cashflow with minimal effort by first looking at every other potential client sector possible in Hong Kong where value exchange is mutual.&lt;/p&gt;
 
 &lt;h2 id=&quot;hotels&quot;&gt;hotels&lt;/h2&gt;
+
 &lt;p&gt;&lt;img src=&quot;assets/hkr/tuve.jpg&quot; alt=&quot;tuve hotel&quot; /&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;tuve-hotel&quot;&gt;TUVE hotel&lt;/h6&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-After an analysis of each potential client, we realized that hotels offer a few distinct advantages for HKR that the others do not.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;After an analysis of each potential client, we realized that hotels offer a few distinct advantages for HKR that the others do not:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;1-clean-recyclables&quot;&gt;1. clean recyclables&lt;/h3&gt;
 
@@ -498,20 +458,15 @@ After an analysis of each potential client, we realized that hotels offer a few 
 
 &lt;h6 id=&quot;quartz-glassleft-and-nanocoated-glassright&quot;&gt;Quartz Glass(Left) and Nanocoated Glass(Right)&lt;/h6&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-Many traffic accidents occur on an annual basis due to sun glare. Sunglasses and special car windows exist that reduces light reflection, but also reduces light transmittance, which also hinders driver visibility. Apple has innovated on this front by providing antireflective coatings for their iMacs and iPad Airs. The culmination of my studies in nanotechnology engineering while at the University of Waterloo, this project strove to lower conventional antireflective coating cost while vastly improving its physical properties.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Many traffic accidents occur on an annual basis due to sun glare. Sunglasses and special car windows exist that reduces light reflection, but also reduces light transmittance, which also hinders driver visibility. Apple has innovated on this front by providing antireflective coatings for their iMacs and iPad Airs. The culmination of my studies in nanotechnology engineering while at the University of Waterloo, this project strove to lower conventional antireflective coating cost while vastly improving its physical properties.&lt;/p&gt;
 
 &lt;h1 id=&quot;current-solutions&quot;&gt;current solutions&lt;/h1&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;There are currently four methods available to reduce reflection:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/paris/current_solutions.png&quot; alt=&quot;current solutions&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Increasing Light Absorbance - Light transmission is also mitigated&lt;/li&gt;
@@ -520,33 +475,19 @@ Many traffic accidents occur on an annual basis due to sun glare. Sunglasses and
   &lt;li&gt;Gradient Refractive Index - Expensive to deposit incrementally increasing thin film refractive indices&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h1 id=&quot;our-solution&quot;&gt;our solution&lt;/h1&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/paris/solution.png&quot; alt=&quot;our solution&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;By using a two layer system, namely a mesoporous silica (MPS) top layer followed by a nano-structured substrate, we created an antireflective system using tuneable refractive index and gradient refractive index materials. The MPS refractive index is tuneable with the amount of binder (acts as MPS glue) solution we use and acts as a protective layer, and the sub-visible-wavelength nano-structures offer a gradient refractive index profile due to its cross-sectional area fraction of polymer and MPS. We thus get optical properties that resonate between a gradient refractive index (broadband and wide angle antireflection) and a single layer interference material (wavelength selective antireflection).&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h1 id=&quot;design-process&quot;&gt;design process&lt;/h1&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/paris/design_process.png&quot; alt=&quot;design process&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;h1 id=&quot;results&quot;&gt;results&lt;/h1&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img src=&quot;assets/paris/results.png&quot; alt=&quot;results&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;NOA61 (Norland Optical Adhesive) is a propietary UV curable polymer which was utilized in our lab, explaining the low transmission towards the violet region.&lt;/p&gt;
 

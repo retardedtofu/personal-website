@@ -12,19 +12,19 @@ description: "How would a Western brand’s values be communicated in a differen
 
 # task
 
-![task 1][task 1]![task 2][task 2]
+<img width="300" src="assets/vibram/task1.jpg"/><img width="300" src="assets/vibram/task2.jpg"/>
 
 # what
 
-![what is vibram - core][what - core]![what is vibram - secondary][what - secondary]
+<img width="300" src="assets/vibram/what1.jpg"/><img width="300" src="assets/vibram/what2.jpg"/>
 
 # design method
 
 <br>![design method][design method]
 
 # key insights
-![insight - brand][insight - brand]![insight - outdoor perception][insight - outdoor perception]
-![insight - brand perception][insight - brand perception]![insight - chinese lifestyle][insight - chinese lifestyle]
+
+<img width="300" src="assets/vibram/insight1.jpg"/><img width="300" src="assets/vibram/insight2.jpg"/><img width="300" src="assets/vibram/insight3.jpg"/><img width="300" src="assets/vibram/insight4.jpg"/>
 
 # Vibram's redefined values
 ![translated values][translated values]
@@ -35,11 +35,9 @@ It was found that much of Vibram's Western-leaning values translated into someth
 ![design objectives][design objectives]
 
 Vibram as a brand is not widely known in China, thus it would be important to establish a brand presence that clearly communicates its values. Secondly, although the brand is not widely known, Vibram's secondary products such as its FiveFingers shoes have high recognisability as a product itself due to its novelty. If some novelty factor were to be incorporated in promoting Vibram's main product of rubber soles without changing the product itself, its product knowledge can be increased. The design solutions focused on these two objectives while keeping objectives 3 and 4 in mind.
-<br>
 
 ## vdiscover app
 
-<br><br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
     <source src="assets/vibram/app1.mp4" type="video/mp4">
@@ -48,7 +46,6 @@ Vibram as a brand is not widely known in China, thus it would be important to es
 </div>
 <div style="text-align:center"><h5>active route planner</h5></div>
 
-<br>
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
     <source src="assets/vibram/app2.mp4" type="video/mp4">
@@ -56,10 +53,12 @@ Vibram as a brand is not widely known in China, thus it would be important to es
   </video>
 </div>
 
-<br><br><br>
+<br>
+
 The first component of the app is a route planner that calculates alternative routes on top of the quickest one. This allows to explore more of their immediate surroundings, getting them literally outdoors more. Also included are Vibram recommended urban landmarks that users can see and explore, and Vibram events that are happening nearby.
 
-<br><br><br>
+<br>
+
 <div class="video-container">
   <video width="250" height="415" autoplay playsinline muted loop>
     <source src="assets/vibram/app3.mp4" type="video/mp4">
@@ -68,42 +67,39 @@ The first component of the app is a route planner that calculates alternative ro
 </div>
 <div style="text-align:center"><h5>meet and find active friends</h5></div>
 
-<br><br><br>
+<br>
+
 The second component of the app allows users to meet each other and explore activities. The radio button allows users to broadcast their location to friends, and approximate location to people who have similar fitness habits, hobbies, and interests, and connect with each other.
 
 Ultimately vdiscover tries to establish brand knowledge for Vibram by indirectly pushing its users to walk, explore, and connect more, aligning it with the company's proposed values and vision of "urban outdoors" and communal well-being.
 
-<br><br><br>
-
 ## marketing signage
 
-<br>![signage 0][signage 0]
+![signage 0][signage 0]
 
 ![signage 1][signage 1]
 
 ![signage 2][signage 2]
 
-![signage 3][signage 3]<br><br>
+![signage 3][signage 3]
 
 On top of the app, marketing signage similar to traditional advertisement campaigns were designed to establish product, brand, as well as app knowledge. The wet caution signs indirectly informs passerbys that Vibram has excellent grip from its rubber soles, while the other signage tries to nudge people to take a route less travelled as well as to promote the vdiscover app.
 
-<br><br><br>
-
 ## product placement
 
-<br><br><br>
 ![product 1][product 1]
 
 ##### old and new product visibility
 
-<br><br><br>
+<br>
+
 ![product 2][product 2]
 
 ##### new product signage
 
-<br><br><br>
-The tags attempt to enhance Vibram's product visibility, as well as provide redeemable reward schemes and promote vdiscover. 
+<br>
 
+The tags attempt to enhance Vibram's product visibility, as well as provide redeemable reward schemes and promote vdiscover. 
 
 [banner]: assets/vibram/banner.png
 [task 1]: assets/vibram/task1.jpg

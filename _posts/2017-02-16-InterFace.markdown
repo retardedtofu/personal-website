@@ -14,9 +14,9 @@ description: "How can we use technology to overcome perceived psychological barr
 
 <br>
 
-Our civilisations have evolved over time but we have retained ancient cognitive traits that are arguably unuseful in today's society. In particular, we still retain the perceived barrier and hesitance to meeting new people and forging new meaningful relationships. Our team strove to shatter this barrier using the 2016 MIT Kickstart Hackathon in Hong Kong as an opportunity, where we became the winning team. Furthermore:
+Our civilisations have evolved over time but we have retained ancient cognitive traits that are arguably unuseful in today's society. In particular, we still retain the perceived barrier and hesitance to meeting new people and forging new meaningful relationships. Our team strove to shatter this barrier using the 2016 MIT Kickstart Hackathon in Hong Kong as an opportunity, where we became the winning team.
 
-<br>
+Furthermore:
 
 1. We are time starved
 2. We often ignore tangible world in favour of intangible content on screens
@@ -26,14 +26,14 @@ Our civilisations have evolved over time but we have retained ancient cognitive 
 
 We took a look at existing settings where connections were encouraged and was the main value proposition for being there. With my team's connections to academic and startup institutions, *conferences* were concluded to be a fertile ground for development, because of:
 
-<br>
-
 1. Time criticality in conferences
 2. People meet the wrong people
 3. Current apps for conference engagement suck 
 
 
 # solution - InterFace
+
+The idea is to have a lanyard with your preferences and profile loaded from your conference signup form you had to do anyway. The lanyard that will be worn by conference goers has tactile feedback on the neck and a visual cue that blinks at the same frequency and colour as another person nearby provided you both have sufficiently overlapping interests. 
 
 <br>
 
@@ -42,10 +42,6 @@ We took a look at existing settings where connections were encouraged and was th
 <br>
 
 <img src="assets/iop/lanyard.jpg" style="width: 500px; max-width:100%; margin: auto; display: block;"/>
-
-<br>
-
-The idea is to have a lanyard with your preferences and profile loaded from your conference signup form you had to do anyway. The lanyard that will be worn by conference goers has tactile feedback on the neck and a visual cue that blinks at the same frequency and colour as another person nearby provided you both have sufficiently overlapping interests. 
 
 <br>
 
@@ -66,7 +62,15 @@ With this concept and prototype, we envision it to be used to connect people in 
 
 <br>
 
-Project done with [Jasmine Rubonovitz](http://www.jasrub.com/), [Jonathan Ching](https://www.linkedin.com/in/jonathanching), [Anthony Occidentale](http://anthonyoccidentale.com/), and [Nathan Monroe](http://nathanmonroe.com/).
+Project done with 
+
+[Jasmine Rubonovitz](http://www.jasrub.com/)
+
+[Jonathan Ching](https://www.linkedin.com/in/jonathanching)
+
+[Anthony Occidentale](http://anthonyoccidentale.com/) 
+
+[Nathan Monroe](http://nathanmonroe.com/)
 
 [perceived barrier]: assets/iop/perceived_barrier.png
 [interface logo]: assets/iop/interface_logo.png

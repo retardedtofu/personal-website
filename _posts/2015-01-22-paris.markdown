@@ -14,53 +14,34 @@ description: "An inexpensive method to reduce sunglare by combining single layer
 
 ###### Quartz Glass(Left) and Nanocoated Glass(Right)
 
-<br><br>
+<br>
+
 Many traffic accidents occur on an annual basis due to sun glare. Sunglasses and special car windows exist that reduces light reflection, but also reduces light transmittance, which also hinders driver visibility. Apple has innovated on this front by providing antireflective coatings for their iMacs and iPad Airs. The culmination of my studies in nanotechnology engineering while at the University of Waterloo, this project strove to lower conventional antireflective coating cost while vastly improving its physical properties.
 
-<br><br>
-
 # current solutions
-
-<br><br>
 
 There are currently four methods available to reduce reflection: 
 
 ![current solutions][current solutions]
-
-<br>
 
 1. Increasing Light Absorbance - Light transmission is also mitigated
 2. Low Refractive Index - Material properties are compromised
 3. Single/Multi-Layer Interference - Very antireflective, but only for selective index at one incident angle
 4. Gradient Refractive Index - Expensive to deposit incrementally increasing thin film refractive indices
 
-<br><br>
-
 # our solution
-
-<br><br>
 
 ![our solution][our solution]
 
 By using a two layer system, namely a mesoporous silica (MPS) top layer followed by a nano-structured substrate, we created an antireflective system using tuneable refractive index and gradient refractive index materials. The MPS refractive index is tuneable with the amount of binder (acts as MPS glue) solution we use and acts as a protective layer, and the sub-visible-wavelength nano-structures offer a gradient refractive index profile due to its cross-sectional area fraction of polymer and MPS. We thus get optical properties that resonate between a gradient refractive index (broadband and wide angle antireflection) and a single layer interference material (wavelength selective antireflection).
 
-<br><br>
-
 # design process
-
-<br><br>
 
 ![design process][design process]
 
-<br><br>
-
 # results
 
-<br><br>
-
 ![results][results]
-
-<br><br>
 
 NOA61 (Norland Optical Adhesive) is a propietary UV curable polymer which was utilized in our lab, explaining the low transmission towards the violet region.
 

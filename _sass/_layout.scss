@@ -4,7 +4,7 @@ body {
 	font-family: $font-text;
 	background-color: $main-color-light;
 	font-weight: 400;
-	font-size: 1.1em;
+	font-size: 1.25em;
 	line-height: 1.8;
 }
 
@@ -55,6 +55,7 @@ h4, h5, h6 {
 
 h1 {
 	padding-top: 75px;
+
 	font-size: 2.25em;
 	a,
 	a:visited {
@@ -72,7 +73,12 @@ h1 {
 
 .title-container {
 	padding-bottom: 3em;
+
+	h1 {
+		padding-bottom: 0;
+	}
 }
+
 
 h2 {
 	padding-top: 50px;
@@ -121,14 +127,32 @@ article p, h3{
 	}
 }
 
-article p {
+article p, ol {
 	display: block;
 	text-align: left;		
-	
+	width: $article-width;
+	line-height: 1.62;
+	letter-spacing: 0px;
+	padding-bottom: 20px;
+
 	img {
 		vertical-align: top;
 		max-width: 100%;
 	}
+}
+
+article h1, h2, h3 {
+	padding-bottom: 40px;
+}
+
+article h4, h5, h6 {
+	padding-bottom: 10px;
+}
+
+article h1, h2, h3, h4, h5, h6, p, ol, div {
+	width: $article-width;
+	max-width: 100%;
+	margin: 0 auto;
 }
 
 main {
@@ -184,34 +208,52 @@ $dot-travel-distance: 20px;
 $dot-position: -20px;
 
 .blog-post {
-	width: 800px;
+	width: $content-width;
+	height: $content-width / 2;
 	max-width: 100%;
 	margin-bottom: 100px;
 	color: $main-color-dark;
 	text-align: left;
 	
+	position: relative;
+
 	/* Flex */
 	display: flex;
 	flex-wrap: wrap-reverse;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: space-around;
-	
+
 	time {
 		color: $main-color-dark;
 	}
 	
 	.blog-post-text {
-		width: 400px;
+		position: absolute;
+		left: 0;
+		top: 50%;
+    	transform: translateY(-50%);
+		width: $content-width / 2;
 		max-width: 100%;
 		margin-bottom: 40px;
 	}
 
 	.blog-post-thumbnail {
-		width: 400px;
+		position: absolute;
+		top: 0;
+		right: 0;
+
+		max-height: $content-width / 2;
+		width: $content-width;
 		max-width: 100%;
 	}
 
 	.blog-post-thumbnail-image {
+		position: absolute;
+		right: 0;
+		top: 200px;
+    	transform: translateY(-50%);
+		
+		max-height: 400px;
 		max-width: 100%;
 		margin-bottom: 20px;
 	}
@@ -249,7 +291,7 @@ $dot-position: -20px;
 	.blog-post-categories {
 		@extend .blog-post-time;
 		margin-right: 0;
-		width: 230px;
+		width: 300px;
 		max-width: 100%;
 		display: inline-block;
 		word-spacing: 15px;
@@ -261,6 +303,7 @@ $dot-position: -20px;
 		margin-top: 20px;
 		font-weight: 400;
 		font-size: 14px;
+
 	}
 
 	&:hover {
@@ -631,13 +674,15 @@ aside {
 }
 
 .pagination-nav {
-	width: 100%;
+	width: $content-width;
+	max-width: $max-content-width;
 	height: 90px;
 	weight: 200;
 	margin-bottom: 50px;
 	text-decoration: none;
 	.pagination-next {
 		height: 90px;
+		max-width: 50%;
 		font-family: $heading-font;
 		text-align: right;
 		color: $main-color-medium;
@@ -744,13 +789,30 @@ footer {
 
 /* Media Queries */
 @media (max-width: 869px) {
-	.post-thumbnail {
-		padding-left: 0;
-		padding-right: 0;
-		max-width: 100%;
-		margin: 0;
-		padding-right: 0;
-		padding-top: 0;
+	.blog-post {
+		
+		height: auto;
+		position: static;
+		
+		.blog-post-text {
+			position: static;
+			margin-bottom: 20px;
+			transform: initial;
+			top: initial;
+		}
+
+		.blog-post-thumbnail {
+			position: static;
+			width: 400px;
+			max-width: 100%;
+			margin-bottom: 15px;
+		}
+
+		.blog-post-thumbnail-image {
+			position: static;
+			margin: 0 auto;
+			transform: translateY(0%);
+		}
 	}
 }
 

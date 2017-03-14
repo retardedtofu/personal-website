@@ -4,7 +4,7 @@ title:  "Kazoo Rebrand"
 date:   2017-03-08 00:00:00 -0500
 tags: work
 extra: dropshadow
-image-url: "/assets/kazoo/banner.png"
+image-url: "/assets/kazoo/banner2.png"
 ---
 
 The goal was to give Kazoo, which specializes in B2B smart cards, an identity which can co-exist with partner clients. By using a four card-stack as its logo, the purpose of Kazoo's product is subconsciouslly embedded into users. Furthermore, the colour palette of the card-stack logo is malleable to conform to partner clients' branding.
