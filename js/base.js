@@ -54,7 +54,6 @@ $(document).ready(function(){
         navSpan.removeClass("duration-0");
         navSpan.addClass("duration-300");
         navSpan.removeClass("invisible");
-      
       }
       
       scrolledNum ++;
@@ -83,8 +82,8 @@ $(document).ready(function(){
     navBar.removeClass("invisible");
 
     navSpan.removeClass("move-span-up");
-    navSpan.removeClass("nav-bottom-visible");
-    navSpan.addClass("nav-bottom-invisible");
+    //navSpan.removeClass("nav-bottom-visible");
+    //navSpan.addClass("nav-bottom-invisible");
 
     $("#nav-span").removeClass("remove-interaction");
     $("#nav-span").addClass("add-interaction");
@@ -105,8 +104,8 @@ $(document).ready(function(){
     navBar.addClass("invisible");
 
     navSpan.addClass("move-span-up");
-    navSpan.removeClass("nav-bottom-invisible");
-    navSpan.addClass("nav-bottom-visible");
+    //navSpan.removeClass("nav-bottom-invisible");
+    //navSpan.addClass("nav-bottom-visible");
 
     $("#nav-span").addClass("remove-interaction");
     $("#nav-span").removeClass("add-interaction");
@@ -169,6 +168,7 @@ $(document).ready(function(){
     $(this).find(".img-social-media-stroke-in").addClass("animate-stroke-in-phase-out");
     $(this).find(".img-social-media-stroke-out").addClass("animate-stroke-out-phase-out");
   });
+
   function toggleNavButtonOn() {
     toggleNavButton = true;
     $("#line1").addClass("toggle-line-1");
@@ -191,8 +191,6 @@ $(document).ready(function(){
     $("#social-media-container").addClass("add-interaction");
     $("#social-media-container").removeClass("invisible");
     $("#social-media-container").removeClass("shift-media-container-right");
-    
-    //$(".img-social-media-icon-link").addClass("default-social-media-icon-state");
   }
 
   function toggleNavButtonOff() {
@@ -221,62 +219,11 @@ $(document).ready(function(){
     $("#social-media-container").addClass("remove-interaction");
     $("#social-media-container").addClass("invisible");
     $("#social-media-container").addClass("shift-media-container-right");
-    
-    //$(".img-social-media-icon-link").removeClass("default-social-media-icon-state");
   }
 
-
-  /*
-  var mainEase = [0.25, 0.1, 0.25, 1];
-  var mainDuration = 100;
-
-  $('.page-link').hover( function() {
-    $(this).data("hoverOverFlag", false);
-
-    var span1 = $('span:nth-child(1)', this);
-    var span2 = $('span:nth-child(2)', this);
-    var span3 = $('span:nth-child(3)', this);
-
-    var hoverOverSequence = [
-      // Keyframe 1
-      { e: span1, p: { scaleY: "0%", transformOriginY: "100%" }, o: { duration: 0 } },
-      { e: span1, p: { scaleY: "100%" }, o: { duration: mainDuration, easing: mainEase } },
-
-      // Keyframe 2
-      { e: span1, p: { transformOriginY: "0%" }, o: { duration: 0 } },
-      { e: span1, p: { scaleY: "0%" }, o: { duration: mainDuration, easing: mainEase} },
-      { e: span2, p: { scaleX: "0%", transformOriginX: "0%" }, o: { duration: 0,  sequenceQueue: false}, },
-      { e: span2, p: { scaleX: "100%" }, o: { duration: mainDuration, easing: mainEase, sequenceQueue: false, complete: function() {
-        if($(this).data("hoverOverFlag")) {
-
-        }
-      }} }
-    ];
-
-    $.Velocity.RunSequence(hoverOverSequence);
-
-  }, function() {
-    $(this).data("hoverOverFlag", false);
-
-    var span1 = $('span:nth-child(1)', this);
-    var span2 = $('span:nth-child(2)', this);
-    var span3 = $('span:nth-child(3)', this);
-
-    var hoverOutSequence = [
-      // Keyframe 1
-      { e: span2, p: { transformOriginX: "100%" }, o: { duration: 0, sequenceQueue: false } },
-      { e: span2, p: { scaleX: "0%" }, o: { duration: mainDuration, easing: mainEase } },
-      { e: span3, p: { scaleY: "0%", transformOriginY: "0%" }, o: { duration: 0, sequenceQueue: false } },
-      { e: span3, p: { scaleY: "100%" }, o: { duration: mainDuration, easing: mainEase, sequenceQueue: false } },
-
-      // Keyframe 2
-      { e: span3, p: { transformOriginY: "100%" }, o: { duration: 0 } },
-      { e: span3, p: { scaleY: "0%" }, o: { duration: mainDuration, easing: mainEase } }
-    ];
-
-    $.Velocity.RunSequence(hoverOutSequence);
+  $(".img-zoom").click(function() {
+    $(this).toggleClass("img-zoomed");
   });
-*/
 
 });
 

@@ -1,3 +1,7 @@
+html, body {
+	overflow-x: hidden;
+}
+
 body {
 	margin: 0;
 	color: $font-color;
@@ -127,6 +131,10 @@ article p, h3{
 	}
 }
 
+article {
+	position: relative;
+}
+
 article p, ol {
 	display: block;
 	text-align: left;		
@@ -190,8 +198,7 @@ video {
 }
 
 .container {
-	width: $content-width;;
-	max-width: $max-content-width;
+	width: 100%;
 	margin: 0 auto;
 }
 
@@ -365,7 +372,7 @@ aside {
 		position: fixed;
 		width: $header-logo-width;
 		height: $header-logo-height;
-		top: ($header-height - $header-logo-height - 20px) / 2;
+		top: ($header-height - $header-logo-height - 50px) / 2;
 		left: ($header-height - $header-logo-height) / 2;
 		z-index: 1;
 	}
@@ -392,7 +399,7 @@ aside {
 			position: absolute;
 			height: $header-logo-height;
 			width: $header-logo-height;
-			top: ($header-height - $header-logo-height) / 2 ;
+			top: ($header-height - $header-logo-height - 50px) / 2 ;
 			right: 3 * ($header-logo-height + $social-media-icon-gap-big);
 
 			.img-social-media-icon-colour {
@@ -502,10 +509,10 @@ aside {
 					@include transition( all 300ms cubic-bezier(0.250, 0.1, 0.25, 1) );
 					font-family: $heading-font;
 					letter-spacing: 1px;
-					line-height: $header-height;
+					line-height: $header-height - 50px;
 					display: block;
 					width: 100%;
-					height: 100%;
+					height: 100px;
 					color: black;
 					text-decoration: none;
 
@@ -517,8 +524,8 @@ aside {
 						cursor: default;
 					}
 
-					$span-height-px: 36px;
-					$span-height: 36;
+					$span-height-px: 35px;
+					$span-height: 0;
 
 					.page-span-cover {
 						@extend .page-span;
@@ -570,10 +577,16 @@ aside {
 	#nav-span {
 		pointer-events: auto;
 		position: fixed;
+		left: 0;
 		height: $header-height;
-		background: $main-color-light;
-		width: $content-width;
-		max-width: $max-content-width;
+		
+		background: $main-color-light; /* For browsers that do not support gradients */
+		background: -webkit-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0) ); /*Safari 5.1-6*/
+		background: -o-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0) ); /*Opera 11.1-12*/
+		background: -moz-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0) ); /*Fx 3.6-15*/
+		background: linear-gradient(rgba(255,255,255,1), rgba(255,255,255,0) ); /*Standard*/
+
+		width: 100%;
 		@include transform-origin( bottom right );
 		@include transition( all 300ms cubic-bezier(0.250, 0.1, 0.25, 1) );		
 	}
@@ -582,7 +595,7 @@ aside {
 		position: fixed;
 		width: ($header-logo-height + $switch-offset) * 2;
 		height: ($header-logo-height + $switch-offset * 2);
-		top: ($header-height - $header-logo-height) / 2 - $switch-offset;
+		top: ($header-height - $header-logo-height - 50px) / 2 - $switch-offset;
 		right: $max-content-width-gap;
 		border-radius: ($header-logo-height) / 2 + $switch-offset;
 		//border: 1px solid $main-color-dark;
@@ -636,6 +649,7 @@ aside {
 	pointer-events: none;
 }
 
+/*
 .nav-bottom-visible {
 	border-bottom: 2px solid $main-color-dark;
 }
@@ -643,6 +657,7 @@ aside {
 .nav-bottom-invisible {
 	border-bottom: 2px solid rgba(0,0,0,0);
 }
+*/
 
 .move-span-up {
 	@include transform( translate3d(0, - $header-height + 2px, 0) );
@@ -786,6 +801,16 @@ footer {
 	@include transition-delay( 0 );
 }
 
+.img-zoom {
+	@include transition( all 300ms cubic-bezier(0.250, 0.1, 0.25, 1) );
+	@include cursor-zoom-in;
+}
+
+.img-zoomed {
+	max-width: 90vw !important;
+	margin: 0 calc(-45vw + 50%);
+	@include cursor-zoom-out;
+}
 
 /* Media Queries */
 @media (max-width: 869px) {
@@ -882,7 +907,7 @@ footer {
 	aside {
 		pointer-events: none;
 		#img-logo {
-			top: ($header-height - $header-logo-height) / 2;
+			top: ($header-height - $header-logo-height - 50px) / 2;
 			left: $max-content-width-gap;
 		}
 
@@ -893,7 +918,6 @@ footer {
 		$temp-container-offset: ($header-logo-height + $switch-offset) * 2 + $social-media-icon-gap-sm;
 		#social-media-container {
 			z-index: 1;
-
 
 			.img-social-media-icon-link {
 				right: 3 * ($header-logo-height + $social-media-icon-gap-sm) + $temp-container-offset;

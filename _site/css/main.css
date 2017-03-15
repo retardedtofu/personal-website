@@ -10,6 +10,9 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
+html, body {
+  overflow-x: hidden; }
+
 body {
   margin: 0;
   color: #464646;
@@ -135,6 +138,9 @@ article p a:hover, h3 a:hover {
   color: white;
   text-decoration: none; }
 
+article {
+  position: relative; }
+
 article p, ol {
   display: block;
   text-align: left;
@@ -187,15 +193,14 @@ video {
   display: inline-block; }
 
 .container {
-  width: 800px;
-  max-width: calc(100% - 60px);
+  width: 100%;
   margin: 0 auto; }
 
 header {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100px; }
+  height: 150px; }
 
 /* Blog and Work Stuff */
 .blog-post {
@@ -326,14 +331,14 @@ aside {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100px;
+  height: 150px;
   z-index: 2; }
   aside #img-logo {
     position: fixed;
     width: 41px;
     height: 30px;
-    top: 25px;
-    left: 35px;
+    top: 35px;
+    left: 60px;
     z-index: 1; }
   aside .shift-media-container-right {
     -webkit-transition: all 300ms cubic-bezier(0.25, 0.1, 0.25, 1);
@@ -465,7 +470,7 @@ aside {
     float: center;
     width: 800px;
     max-width: 100%;
-    height: 100px;
+    height: 150px;
     margin: 0 auto;
     -webkit-transform-origin: bottom left;
     -moz-transform-origin: bottom left;
@@ -477,7 +482,7 @@ aside {
       padding: 0;
       list-style: none;
       text-align: center;
-      height: 100px; }
+      height: 150px; }
       aside #nav-bar ul li {
         position: relative;
         display: inline-block;
@@ -496,7 +501,7 @@ aside {
           line-height: 100px;
           display: block;
           width: 100%;
-          height: 100%;
+          height: 100px;
           color: black;
           text-decoration: none; }
           aside #nav-bar ul li .page-link .page-span, aside #nav-bar ul li .page-link .page-span-cover {
@@ -510,7 +515,7 @@ aside {
             height: 5px;
             opacity: 1;
             right: calc(50% - 2px);
-            margin-top: -24px;
+            margin-top: -23px;
             border-radius: 50%;
             opacity: 0;
             -webkit-transition: all 300ms cubic-bezier(0.25, 0.1, 0.25, 1);
@@ -550,10 +555,19 @@ aside {
   aside #nav-span {
     pointer-events: auto;
     position: fixed;
-    height: 100px;
+    left: 0;
+    height: 150px;
     background: #fff;
-    width: 800px;
-    max-width: calc(100% - 60px);
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, rgba(255, 255, 255, 0));
+    /*Safari 5.1-6*/
+    background: -o-linear-gradient(white, rgba(255, 255, 255, 0));
+    /*Opera 11.1-12*/
+    background: -moz-linear-gradient(white, rgba(255, 255, 255, 0));
+    /*Fx 3.6-15*/
+    background: linear-gradient(white, rgba(255, 255, 255, 0));
+    /*Standard*/
+    width: 100%;
     -webkit-transform-origin: bottom right;
     -moz-transform-origin: bottom right;
     -ms-transform-origin: bottom right;
@@ -609,18 +623,21 @@ aside {
   transform: translate3d(0, -60px, 0);
   pointer-events: none; }
 
+/*
 .nav-bottom-visible {
-  border-bottom: 2px solid #464646; }
+	border-bottom: 2px solid $main-color-dark;
+}
 
 .nav-bottom-invisible {
-  border-bottom: 2px solid transparent; }
-
+	border-bottom: 2px solid rgba(0,0,0,0);
+}
+*/
 .move-span-up {
-  -webkit-transform: translate3d(0, -98px, 0);
-  -moz-transform: translate3d(0, -98px, 0);
-  -ms-transform: translate3d(0, -98px, 0);
-  -o-transform: translate3d(0, -98px, 0);
-  transform: translate3d(0, -98px, 0); }
+  -webkit-transform: translate3d(0, -148px, 0);
+  -moz-transform: translate3d(0, -148px, 0);
+  -ms-transform: translate3d(0, -148px, 0);
+  -o-transform: translate3d(0, -148px, 0);
+  transform: translate3d(0, -148px, 0); }
 
 .duration-0 {
   -webkit-transition: all 0ms;
@@ -785,6 +802,23 @@ footer {
   -moz-transition-delay: 0;
   -o-transition-delay: 0;
   transition-delay: 0; }
+
+.img-zoom {
+  -webkit-transition: all 300ms cubic-bezier(0.25, 0.1, 0.25, 1);
+  -moz-transition: all 300ms cubic-bezier(0.25, 0.1, 0.25, 1);
+  -ms-transition: all 300ms cubic-bezier(0.25, 0.1, 0.25, 1);
+  -o-transition: all 300ms cubic-bezier(0.25, 0.1, 0.25, 1);
+  transition: all 300ms cubic-bezier(0.25, 0.1, 0.25, 1);
+  cursor: -webkit-zoom-in;
+  cursor: -moz-zoom-in;
+  cursor: zoom-in; }
+
+.img-zoomed {
+  max-width: 90vw !important;
+  margin: 0 calc(-45vw + 50%);
+  cursor: -webkit-zoom-out;
+  cursor: -moz-zoom-out;
+  cursor: zoom-out; }
 
 /* Media Queries */
 @media (max-width: 869px) {

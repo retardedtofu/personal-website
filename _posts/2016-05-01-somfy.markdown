@@ -17,6 +17,8 @@ description: "My team thought about IoT from the perspective of how humans benef
 [&emsp;product](#product)<br>
 [&emsp;app](#app)
 
+<br>
+
 I've always found the Internet of Things to be an interesting area when it comes to thinking about what problems should be solved first. Although it has been closely associated within the realm of what is possible in technology, I feel like much of the proliferation in IoT development lack the essence of a deeper understanding of what is/isn't important for consumers. I attempted to address this problem with my last client, Somfy, a company that is uniquely focused on B2B motorized blinds. Provided below are some of the approaches I used to solve Somfy's problems, as well as getting a deeper insight into IoT.
 
 # <a name="approach"></a>approach
@@ -29,7 +31,7 @@ I've always found the Internet of Things to be an interesting area when it comes
 
 <br>
 
-![cognition - mental processes][cognition ecosystem]
+<img class="img-zoom" src="assets/somfy/cognition_ecosystem.png"/>
 
 #### cognition and tech ecosystem
 

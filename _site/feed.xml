@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-03-14T18:52:30-04:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2017-03-15T17:47:06-04:00</updated><id>http://0.0.0.0:4000//</id><title type="html">/</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Kazoo Rebrand</title><link href="http://0.0.0.0:4000/Kazoo-Rebrand" rel="alternate" type="text/html" title="Kazoo Rebrand" /><published>2017-03-08T00:00:00-05:00</published><updated>2017-03-08T00:00:00-05:00</updated><id>http://0.0.0.0:4000/Kazoo-Rebrand</id><content type="html" xml:base="http://0.0.0.0:4000/Kazoo-Rebrand">&lt;p&gt;The goal was to give Kazoo, which specializes in B2B smart cards, an identity which can co-exist with partner clients. By using a four card-stack as its logo, the purpose of Kazoo’s product is subconsciouslly embedded into users. Furthermore, the colour palette of the card-stack logo is malleable to conform to partner clients’ branding.&lt;/p&gt;
 
 &lt;h1 id=&quot;identity&quot;&gt;identity&lt;/h1&gt;
@@ -157,6 +157,8 @@
 &lt;a href=&quot;#product&quot;&gt; product&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;#app&quot;&gt; app&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;I’ve always found the Internet of Things to be an interesting area when it comes to thinking about what problems should be solved first. Although it has been closely associated within the realm of what is possible in technology, I feel like much of the proliferation in IoT development lack the essence of a deeper understanding of what is/isn’t important for consumers. I attempted to address this problem with my last client, Somfy, a company that is uniquely focused on B2B motorized blinds. Provided below are some of the approaches I used to solve Somfy’s problems, as well as getting a deeper insight into IoT.&lt;/p&gt;
 
 &lt;h1 id=&quot;approach&quot;&gt;&lt;a name=&quot;approach&quot;&gt;&lt;/a&gt;approach&lt;/h1&gt;
@@ -169,7 +171,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/somfy/cognition_ecosystem.png&quot; alt=&quot;cognition - mental processes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;img-zoom&quot; src=&quot;assets/somfy/cognition_ecosystem.png&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;cognition-and-tech-ecosystem&quot;&gt;cognition and tech ecosystem&lt;/h4&gt;
 
